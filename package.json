@@ -1,0 +1,20 @@
+{
+  "name": "nostria-curator",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nostria-app/nostria-curator#readme",
+  "bugs": {
+    "url": "https://github.com/nostria-app/nostria-curator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nostria-app/nostria-curator.git"
+  },
+  "license": "CC0",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
