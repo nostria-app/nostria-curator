@@ -12,9 +12,27 @@
   },
   "license": "CC0",
   "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
+    "music:build": "tsx scripts/music/build-music-february-2026.ts",
+    "music:build:generic": "tsx scripts/music/build-article.ts",
+    "music:fetch": "tsx scripts/music/fetch-music-february-2026.ts",
+    "music:fetch:generic": "tsx scripts/music/fetch-playlist-tracks.ts",
+    "music:package": "tsx scripts/music/package-music-february-2026.ts",
+    "music:package:generic": "tsx scripts/music/package-article.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "nostr-tools": "^2.17.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.7",
+    "@types/node": "^24.3.0",
+    "@types/ws": "^8.18.1",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
   }
 }

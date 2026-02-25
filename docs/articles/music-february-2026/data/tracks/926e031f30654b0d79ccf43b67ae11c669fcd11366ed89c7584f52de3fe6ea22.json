@@ -1,0 +1,80 @@
+{
+  "content": "License:\nAll Rights Reserved",
+  "created_at": 1768790659,
+  "id": "926e031f30654b0d79ccf43b67ae11c669fcd11366ed89c7584f52de3fe6ea22",
+  "kind": 36787,
+  "pubkey": "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+  "sig": "9769a3901160bf678d1560895d3cc6cfd443fae520d7a87ee0b16b60a35cf995e1dfedecb4b5933137a58a8164e4b91e4c81c842573cda01447e8cd1c72d519f",
+  "tags": [
+    [
+      "d",
+      "1767850221039-dmdvl6j"
+    ],
+    [
+      "title",
+      "To Be Intended"
+    ],
+    [
+      "artist",
+      "Strange Love"
+    ],
+    [
+      "url",
+      "https://blossom.primal.net/54d59c78615619ba8e1f99840f6ae51be1a7899606028ff5bae21dc6bb393f49.mp3"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "duration",
+      "366"
+    ],
+    [
+      "format",
+      "audio/mpeg"
+    ],
+    [
+      "image",
+      "https://cdn.satellite.earth/16439f488cfccd6b5024572f31ca85e9262e9abf711528551178db4b175e4478.png"
+    ],
+    [
+      "language",
+      "en"
+    ],
+    [
+      "ai_generated",
+      "false"
+    ],
+    [
+      "t",
+      "rock"
+    ],
+    [
+      "t",
+      "metal"
+    ],
+    [
+      "t",
+      "alternative"
+    ],
+    [
+      "license",
+      "All Rights Reserved"
+    ],
+    [
+      "zap",
+      "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+      "wss://relay.damus.io",
+      "1000"
+    ],
+    [
+      "alt",
+      "Music track: To Be Intended by Strange Love"
+    ],
+    [
+      "client",
+      "sunami.app"
+    ]
+  ]
+}

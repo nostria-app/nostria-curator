@@ -1,0 +1,78 @@
+{
+  "content": "Ambient bass guitar soundscapes and improvisations.",
+  "created_at": 1769923703,
+  "id": "55ab250f841c8350f97c90f076f9338d1b80829a8ba70ca0d9207a0247fb379d",
+  "kind": 36787,
+  "pubkey": "9ba1ad878055e31fa882a9c3bac5bb114d8d55d4ad5ea6ce49c2a4d542fea785",
+  "sig": "138a52683ef0c40279a902add377907c134a1dcc74e81d8cbeaa34c51e34256cf4e49ccf9dd533fb884b7991a5d443c363a4eb1bb1ac70f0d81779bf54455420",
+  "tags": [
+    [
+      "d",
+      "track-1769923703074-n7jumd7rm"
+    ],
+    [
+      "title",
+      "When the Sky Melts into the Sea"
+    ],
+    [
+      "artist",
+      "Peter Paulsen"
+    ],
+    [
+      "url",
+      "https://www.peterpaulsen.net/wp-content/uploads/2025/08/05_when_the_sky_melts_into_the_sea.mp3"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "released",
+      "2011-10-10"
+    ],
+    [
+      "duration",
+      "600"
+    ],
+    [
+      "format",
+      "audio/mpeg"
+    ],
+    [
+      "image",
+      "https://www.peterpaulsen.net/nostr/PP_Inner_Space_cover_mp3.jpeg"
+    ],
+    [
+      "ai_generated",
+      "false"
+    ],
+    [
+      "t",
+      "jazz"
+    ],
+    [
+      "license",
+      "All Rights Reserved"
+    ],
+    [
+      "zap",
+      "9ba1ad878055e31fa882a9c3bac5bb114d8d55d4ad5ea6ce49c2a4d542fea785",
+      "wss://relay.primal.net",
+      "900"
+    ],
+    [
+      "zap",
+      "605343ab36f8677a0d35f7e387927bdaff488a92b3d727fb2a43cf7a9573c8d4",
+      "wss://relay.primal.net",
+      "100"
+    ],
+    [
+      "alt",
+      "Music track: When the Sky Melts into the Sea by Peter Paulsen"
+    ],
+    [
+      "client",
+      "sunami.app"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "content": "<p>Memories by MOOKY</p>\n<p>Presented by Cannabis Records and Hash Power Music</p>",
+  "created_at": 1763692769,
+  "id": "035aad8fdf59b20a951aa0b5931dd327580e59f7e71a792f07236ae7df527cba",
+  "kind": 36787,
+  "pubkey": "16cb4b38fe9a748b6608f6a596913992dfc50906524c8311cd360bc40222ab94",
+  "sig": "f1f0164e1dcbc70d3c20355b9d3ac8a1d3fd9452d1e8a610109373aac0ec06dc729eea4e0641eb9288399f0a8418793b40e5a1efe422c021c279f4eeaa8f5a2c",
+  "tags": [
+    [
+      "d",
+      "memories-1763692769558-0"
+    ],
+    [
+      "title",
+      "Memories"
+    ],
+    [
+      "url",
+      "https://op3.dev/e,pg=0b1333b1-f428-58c0-9a6a-3c3fa09aaa2c/media.rssblue.com/podcasts/memories/memories/audio.mooky-memories.mp3"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "alt",
+      "Music track: Memories by MOOKY"
+    ],
+    [
+      "image",
+      "https://media.rssblue.com/podcasts/memories/cover-art.mooky-memories-artwork.jpg"
+    ],
+    [
+      "artist",
+      "MOOKY"
+    ],
+    [
+      "album",
+      "Memories"
+    ],
+    [
+      "released",
+      "2025-11-20"
+    ],
+    [
+      "client",
+      "crush.shakespeare.wtf"
+    ]
+  ]
+}

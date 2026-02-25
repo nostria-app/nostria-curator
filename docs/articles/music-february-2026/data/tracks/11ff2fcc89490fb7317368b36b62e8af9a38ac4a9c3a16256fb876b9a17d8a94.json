@@ -1,0 +1,54 @@
+{
+  "content": "",
+  "created_at": 1763297382,
+  "id": "11ff2fcc89490fb7317368b36b62e8af9a38ac4a9c3a16256fb876b9a17d8a94",
+  "kind": 36787,
+  "pubkey": "005bc4de41cfcb580f71cad6ae8909a976568633a4f6a93c6b7fd5bfef11e1a2",
+  "sig": "e5e588d163a03f079b0729b24a13104ac38d40b95daf1369994cf5aab6e7fdf868eee8c2f8d11d9f47b7c71b51cf7a243e68f75607cce55d76dea737aafcacea",
+  "tags": [
+    [
+      "d",
+      "play-it-for-the-broken-1763297382709"
+    ],
+    [
+      "title",
+      "Play It For The Broken"
+    ],
+    [
+      "url",
+      "https://blossom.primal.net/ec11cc391f115cfbfdef7423122e8c2d4af0ac3721673c8a15c59b7f084dc4ea"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "t",
+      "blues"
+    ],
+    [
+      "t",
+      "lounge"
+    ],
+    [
+      "alt",
+      "Music track: Play It For The Broken by Artist"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/545d656da0a930d50512bc7e56a668b51acbd14e71b78346518b0720084765b3.webp"
+    ],
+    [
+      "released",
+      "2025-11-16"
+    ],
+    [
+      "ai-generated",
+      "true"
+    ],
+    [
+      "client",
+      "crush.shakespeare.wtf"
+    ]
+  ]
+}

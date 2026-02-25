@@ -1,0 +1,50 @@
+{
+  "content": "",
+  "created_at": 1762683235,
+  "id": "b2bc213aa8da7ff75c16b3f42fad6d567478b708d20a7d3c5404691a5bc22e02",
+  "kind": 36787,
+  "pubkey": "005bc4de41cfcb580f71cad6ae8909a976568633a4f6a93c6b7fd5bfef11e1a2",
+  "sig": "d7d68992d3db7c820905866ba8091e8cad887531561f463b5e5a811cd613cb9d06258d290182bb90aa5af4940d103e30627f5d6e39b787d7f9e56995ebb3b99e",
+  "tags": [
+    [
+      "d",
+      "remember-november-10-1762683235475"
+    ],
+    [
+      "title",
+      "Remember November 10"
+    ],
+    [
+      "url",
+      "https://blossom.primal.net/38d00fb1440f6ef41ce531a48164c235f85312c18fae706606ab6e72bab91f2d"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "t",
+      "folk"
+    ],
+    [
+      "t",
+      "ai-generated"
+    ],
+    [
+      "alt",
+      "Music track: Remember November 10 by Artist"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/fc72094a95f103cae022872bc54bef7796b3425674623a91ef0cf4ddffde9023.png"
+    ],
+    [
+      "released",
+      "2025-11-09"
+    ],
+    [
+      "client",
+      "crush.shakespeare.wtf"
+    ]
+  ]
+}

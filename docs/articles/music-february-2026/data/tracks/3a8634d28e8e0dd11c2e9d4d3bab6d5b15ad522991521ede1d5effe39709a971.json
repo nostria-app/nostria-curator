@@ -1,0 +1,70 @@
+{
+  "content": "",
+  "created_at": 1766774545,
+  "id": "3a8634d28e8e0dd11c2e9d4d3bab6d5b15ad522991521ede1d5effe39709a971",
+  "kind": 36787,
+  "pubkey": "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40",
+  "sig": "be00656f44e6c3f8d460af78d85f63e56b48119c6fb44e52cfc9fd1f7b1c8241f4c052e7a28999c9c50450b65cc567f9f15866e4dab6c2b5ef4ea5a43754131a",
+  "tags": [
+    [
+      "d",
+      "love-de-ma-life-1766774386047-3"
+    ],
+    [
+      "title",
+      "Love De Ma Life"
+    ],
+    [
+      "url",
+      "https://media.basspistol.com/sakrecoer.com/the-lonely-hearts-club-techno-band/4-love-de-ma-life.mp3"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "t",
+      "electronic"
+    ],
+    [
+      "t",
+      "electro"
+    ],
+    [
+      "t",
+      "disco"
+    ],
+    [
+      "t",
+      "house"
+    ],
+    [
+      "alt",
+      "Music track: Love De Ma Life by Sakrecoer"
+    ],
+    [
+      "image",
+      "https://media.basspistol.com/sakrecoer.com/the-lonely-hearts-club-techno-band/1-fuck-dishit.jpeg"
+    ],
+    [
+      "artist",
+      "Sakrecoer"
+    ],
+    [
+      "p",
+      "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40"
+    ],
+    [
+      "album",
+      "The Lonely Hearts Club Techno Band"
+    ],
+    [
+      "released",
+      "2025-12-26"
+    ],
+    [
+      "client",
+      "nodecast.xyz"
+    ]
+  ]
+}

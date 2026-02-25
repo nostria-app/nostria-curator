@@ -1,0 +1,76 @@
+{
+  "content": "",
+  "created_at": 1770414739,
+  "id": "45c1ecc92caef750ee09799d466da7deec8a7a1456828b119525a4fd808bbe68",
+  "kind": 36787,
+  "pubkey": "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+  "sig": "9a8ce2b7671ecdbcd172368d7f2f1896f3a3d4eb8e907c4a4742f71394a25160b5833a6e979e95b6048edc995920e98182633c80b12199d790267217d3e1eebf",
+  "tags": [
+    [
+      "d",
+      "rss-track-1767732754788-8jba6ztbr"
+    ],
+    [
+      "title",
+      "Wednesday"
+    ],
+    [
+      "artist",
+      "Iggy Golo"
+    ],
+    [
+      "url",
+      "https://nostr.download/c6a53b3aca3e9d5749efd7d0f8ac34ebb4ea3f63a0ba7c57ac6a6e7fde1bca1f.mpga"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "released",
+      "2025-09-09"
+    ],
+    [
+      "duration",
+      "130"
+    ],
+    [
+      "format",
+      "audio/mpeg"
+    ],
+    [
+      "image",
+      "https://nostr.download/6612c2f2afdcd74a8c96cbec91a75d72d6c161792f6ccb52b60a6a3838137dc8.png"
+    ],
+    [
+      "ai_generated",
+      "false"
+    ],
+    [
+      "t",
+      "j-pop"
+    ],
+    [
+      "t",
+      "hyperpop"
+    ],
+    [
+      "license",
+      "All Rights Reserved"
+    ],
+    [
+      "zap",
+      "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+      "wss://relay.primal.net",
+      "1000"
+    ],
+    [
+      "alt",
+      "Music track: Wednesday by Iggy Golo"
+    ],
+    [
+      "client",
+      "sunami.app"
+    ]
+  ]
+}

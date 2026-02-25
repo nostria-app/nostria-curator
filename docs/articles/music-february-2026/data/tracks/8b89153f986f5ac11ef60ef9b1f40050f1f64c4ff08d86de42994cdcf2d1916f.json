@@ -1,0 +1,72 @@
+{
+  "content": "",
+  "created_at": 1763706151,
+  "id": "8b89153f986f5ac11ef60ef9b1f40050f1f64c4ff08d86de42994cdcf2d1916f",
+  "kind": 36787,
+  "pubkey": "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+  "sig": "f7d2bb5004b515c28009801531fa3fce0e698b621fd9c2ac3a0554ad13f9e8c14e94b8fb73d5d16f8458ae3950bc447af1f7c987a87a4013ddb5d693c2b2a03e",
+  "tags": [
+    [
+      "d",
+      "chasing-light-1762472600421"
+    ],
+    [
+      "title",
+      "Chasing Light"
+    ],
+    [
+      "url",
+      "https://blossom.primal.net/b6652408f15c1292238c91b9828dbcae49269280daa6d8f54ce527012c444a20"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "t",
+      "ai-generated"
+    ],
+    [
+      "alt",
+      "Music track: Chasing Light by Dude"
+    ],
+    [
+      "artist",
+      "Dude"
+    ],
+    [
+      "released",
+      "2025-11-21"
+    ],
+    [
+      "ai-generated",
+      "true"
+    ],
+    [
+      "zap_address",
+      "karnage1@getalby.com",
+      "1"
+    ],
+    [
+      "zap_address",
+      "aigod@coinos.io",
+      "1"
+    ],
+    [
+      "zap",
+      "79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
+      "",
+      "1"
+    ],
+    [
+      "zap",
+      "72bdbc57bdd6dfc4e62685051de8041d148c3c68fe42bf301f71aa6cf53e52fb",
+      "",
+      "1"
+    ],
+    [
+      "client",
+      "crush.local-shakespeare.dev"
+    ]
+  ]
+}

@@ -1,0 +1,226 @@
+# Music February 2026
+
+Curated tracks from artists publishing music on Nostr.
+
+This month's selection feels like a journey across scenes and styles on Nostr: 27 tracks from independent artists, with 2 tracks carrying video metadata for a richer in-app listening experience.
+
+Playlist source: nostr:naddr1qvzqqqy9tvpzpy5am98xej9xvetxtg0plszrj5kqznqkc9e4278rgdkdg5gtr6pfqy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq35amnwvaz7tmjd93x7tn9w5hxummnw3exjcfwv9c8qtcqrdnx2cnjw4shy7fdxgcryd3dxymnwv3sxycrqwpjxvmnjdg05nr
+
+This article might not show correctly in all Nostr clients, so go view it here: https://nostria.app/a/naddr1qvzqqqr4gupzpy5am98xej9xvetxtg0plszrj5kqznqkc9e4278rgdkdg5gtr6pfqy88wumn8ghj7mn0wvhxcmmv9uqpxmt4wd5kxttxv438yatpwfuj6v3sxgmqqxl7rw
+
+## Artists
+
+- nostr:npub19r9qrxmckj2vyk5a5ttyt966s5qu06vmzyczuh97wj8wtyluktxqymeukr (Joe Martin)
+- nostr:npub1l5hwyh7saazz4gdhgp9fx4939e25asx74kq6dj9ahrx69lcfxulsudhdrf (Strange Love)
+- nostr:npub12znrejs4k94kp5efhyhk9rzr9jxpy6ymgrlf6py4awpkkhed7cmshs6yg6 (Matt Finlay)
+- nostr:npub1xf9y967p3fw4cs6eg8jpt4hdreqf7a4z4szchne0z4ewwpsr7s8q6nc7n0 (Reni & Boka)
+- nostr:npub1fr5hvptm7t83xvczqd2mt5jrlrwcz0cexpgarjcygyuffar2e3psy8kc69 (Iggy)
+- nostr:npub1nnv9m4n89m8mex7swrfeek8z5g88vr37g78wjxdhd2h9dnp78xesfcvsxr (Haleen)
+- nostr:npub1zdvcvc0x2fmz6tfav68r5d7uyp08xm6cf6uuupf85le9nk4wdr5se7x9vv (electric jidam)
+- nostr:npub1nws6mpuq2h33l2yz48pm43dmz9xc64w54402dnjfc2jd2sh757zstcq7sw (Peter Paulsen)
+- nostr:npub1zl3g38a6qypp6py2z07shggg45cu8qex992xpss7d8zrl28mu52s4cjajh (SondreB)
+- nostr:npub1p305lmfgxfks3da7djfqqu99cy42sch28f6689gzufyezcmz45gsqjgg05 (Øystein Berge)
+- nostr:npub196dahpjcaryl8kyz675k89c3ptnrqtz5xj85lv0m730rss3rqv2q0n6k24 (KS)
+- nostr:npub18ug6hvhzxhdz6nw6t4k7ktcjx9e5w6n5tg7226y458g0vv4y9aqq3r20ex (𝖘𝖊𝖙𝖙𝖔𝖘𝖍𝖎 𝖙𝖔𝖓𝖆𝖒𝖎)
+- nostr:npub1xnd2syp22sw3m32nurpkjchdw8agw39vdnmp3urvwe9pw8rfndysx8nlcg (eardiod)
+- nostr:npub1zm95kw87nf6gkesg76jedyfejt0u2zgx2fxgxywdxc9ugq3z4w2q4m092t (Hash Power Music)
+- nostr:npub1zerqqprwvfgx8scsy0xmn8en7wtgq8pr8ts6ghryv9t6nfgwyhwsqv2zvk (zer)
+- nostr:npub1qpdufhjpel94srm3ett2azgf49m9dp3n5nm2j0rt0l2mlmc3ux3qza082j (crrdlx)
+- nostr:npub1hkxs8eq7dxwcszl8f9cqe7ev58crn8ek34azamkqrjevspgwf4rsm72yh5 (AI God)
+- nostr:npub18ams6ewn5aj2n3wt2qawzglx9mr4nzksxhvrdc4gzrecw7n5tvjqctp424 (Derek Ross)
+- nostr:npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac (HoloKat)
+
+## Curator notes
+
+Welcome to the first Music article for 2026! This month, we're diving into a diverse playlist that showcases a range of genres and artists from the Nostr ecosystem. From the energetic beats of HoloKat to the introspective melodies of Iggy, there's something for everyone in this month's selection.
+
+We've used Nostria to curate this playlist, and you can find the source playlist linked above. Each track has been carefully selected to highlight the creativity and talent of independent artists on Nostr, and attempted to showcase as much variation as possible.
+
+Authoring articles on Nostria is a fantastic way to engage with the community and share your unique perspective. Don't hesitate to add your own editorial notes, highlight standout tracks, or provide context about the artists and their work. Your insights can help readers connect more deeply with the music and discover new favorites.
+
+You can use bookmarking to collect source and then you can import all of them easily in the article editor, simplifying your workflow tremendously.
+
+## Tracks
+
+**Alone In Valentine (single)**
+
+nostr:npub19r9qrxmckj2vyk5a5ttyt966s5qu06vmzyczuh97wj8wtyluktxqymeukr (Joe Martin) brings its all about the song..
+
+nostr:naddr1qvzqqqy0kvpzq2x2qxdh3dy5cfdfmgkkgkt44pgpcl5ekyfs9ewtuaywukflevkvqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqr468yctrdvknzdehxycrywpcxv6n2d3k94k8g634w9ax5vesd2ps29
+
+**Dirt and Sand**
+
+nostr:npub1l5hwyh7saazz4gdhgp9fx4939e25asx74kq6dj9ahrx69lcfxulsudhdrf (Strange Love) brings canadian rock band from the Niagara Region. We pride ourselves in having a diverse range of influences that....
+
+nostr:naddr1qvzqqqy0kvpzplfwuf0apm6y92smwsz2jd2tztj4fmqdatvp5mytmwxd5tlsjdelqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqr468yctrdvknzdehxycrgd3nxcmrvvek94excctgv9482wt8tcernz
+
+**Weather Weapons [288Hz]**
+
+nostr:npub12znrejs4k94kp5efhyhk9rzr9jxpy6ymgrlf6py4awpkkhed7cmshs6yg6 (Matt Finlay) brings a builder’s mindset to music culture, blending creation and community.
+
+This track includes a music video.
+
+nostr:naddr1qvzqqqy0kvpzq59x8n9ptvttvrfjnwf0v2xyxtyvzf5fks87n5zft6urdd0jma3hqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qg6waehxw309aex2mrp0yhxxun9v3jkuum09e3kzen99uqzzunnwvkhgunpvd4j6vfhxucr2dpe8y6nxve5xcknjcfjdfeng7nn0gq74egs
+
+**Minden alma**
+
+nostr:npub1xf9y967p3fw4cs6eg8jpt4hdreqf7a4z4szchne0z4ewwpsr7s8q6nc7n0 (Reni & Boka) channels moonlit, nature-soaked indie songwriting as a duo rooted in Budapest.
+
+nostr:naddr1qvzqqqy0kvpzqvj2gt4urzjat3p4js0yzhtw68jqnam29tq9308j79tjuurq8aqwqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqz5cnwd3hxvmnqwf58qmrsdpd8qc8g7nxv34qd46t8j
+
+**Crocodile Tears**
+
+nostr:npub19r9qrxmckj2vyk5a5ttyt966s5qu06vmzyczuh97wj8wtyluktxqymeukr (Joe Martin) brings its all about the song..
+
+nostr:naddr1qvzqqqy0kvpzq2x2qxdh3dy5cfdfmgkkgkt44pgpcl5ekyfs9ewtuaywukflevkvqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqr468yctrdvknzdekxuunsdpsxuerxwpk94exzvmhvahrgup3rtfwrs
+
+**OVERTHINKING**
+
+nostr:npub1fr5hvptm7t83xvczqd2mt5jrlrwcz0cexpgarjcygyuffar2e3psy8kc69 (Iggy) brings making lofi chill guitar music 🎸.
+
+nostr:naddr1qvzqqqy0kvpzqj8fwczhhuk0zvesyq64khfy87xasyl3jvz3689sgsfcjn6x4nzrqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qghwaehxw309ahx7um5wghx66ttdaeks6fwv3jj7qqaw3exzcmt95cnwdesx5cn2df4xg6rxwfdwpmnzapewvc82uqns598s
+
+**Wednesday**
+
+nostr:npub1fr5hvptm7t83xvczqd2mt5jrlrwcz0cexpgarjcygyuffar2e3psy8kc69 (Iggy) brings making lofi chill guitar music 🎸.
+
+nostr:naddr1qvzqqqy0kvpzqj8fwczhhuk0zvesyq64khfy87xasyl3jvz3689sgsfcjn6x4nzrqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qghwaehxw309ahx7um5wghx66ttdaeks6fwv3jj7qppwfehxtt5wfskx6edxymnvdehxverwdf5xuurstfcdf3xzdn6w338ycm65mh
+
+**Universe**
+
+nostr:npub1nnv9m4n89m8mex7swrfeek8z5g88vr37g78wjxdhd2h9dnp78xesfcvsxr (Haleen) brings an intimate, off-grid creative energy with a strong sense of transformation.
+
+nostr:naddr1qvzqqqy0kvpzp8xcthtxwtk0hjdaquxnnnvw9gswwc8ru3uwayvmw64w2mxruwdnqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgcwaehxw309aex2mrp0yhxvmm4de6xz6tw9enx6tcqy9e8xuedw3exzcmt95cnwdesxy6rsvesxccr2v3d8ph8s7fjxae827gpn9uw2
+
+**Intro (Lost in Space)**
+
+nostr:npub1zdvcvc0x2fmz6tfav68r5d7uyp08xm6cf6uuupf85le9nk4wdr5se7x9vv (electric jidam) brings a crafted sonic identity that expands the texture of this issue.
+
+nostr:naddr1qvzqqqy0kvpzqy6eses7v5nk95kn6e5w8gmacgz7wdh4sn4eeczj0fljt8d2u68fqqwhgunpvd4j6vfhxcunjd3j8yurzdfhxskhqet0xvuxvdnr8ytws6pg
+
+**When the Sky Melts into the Sea**
+
+nostr:npub1nws6mpuq2h33l2yz48pm43dmz9xc64w54402dnjfc2jd2sh757zstcq7sw (Peter Paulsen) brings a crafted sonic identity that expands the texture of this issue.
+
+nostr:naddr1qvzqqqy0kvpzpxap4krcq40rr75g92wrhtzmky2d342aft275m8yns4y64p0afu9qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqr468yctrdvknzdek8yunyvehxqenqde594hrw6n4d4jrwundnn9t80
+
+**Chapter Fifteen : The Last Days of Loki**
+
+nostr:npub1zl3g38a6qypp6py2z07shggg45cu8qex992xpss7d8zrl28mu52s4cjajh (SondreB) brings founder of Nostria. Founder of Liberstad. Voluntaryist. Decentralize everything..
+
+nostr:naddr1qvzqqqy0kvpzq9lz3z0m5qgzr5zg5ylapwss3tf3cwpjv225vrppu6wy8750heg4qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqz5cnwd3e8qunsd3hxqmrzv3d8pskjmmzwdksajdl59
+
+**Empty Passenger Seat**
+
+nostr:npub19r9qrxmckj2vyk5a5ttyt966s5qu06vmzyczuh97wj8wtyluktxqymeukr (Joe Martin) brings its all about the song..
+
+This track includes a music video.
+
+nostr:naddr1qvzqqqy0kvpzq2x2qxdh3dy5cfdfmgkkgkt44pgpcl5ekyfs9ewtuaywukflevkvqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqr468yctrdvknzdek8ycnydfjxsmngvee946hz6m9w4nhq7necfkpp6
+
+**To Be Intended**
+
+nostr:npub1l5hwyh7saazz4gdhgp9fx4939e25asx74kq6dj9ahrx69lcfxulsudhdrf (Strange Love) brings canadian rock band from the Niagara Region. We pride ourselves in having a diverse range of influences that....
+
+nostr:naddr1qvzqqqy0kvpzplfwuf0apm6y92smwsz2jd2tztj4fmqdatvp5mytmwxd5tlsjdelqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqz5cnwd3h8q6nqv3jxycrxwfdv3kkganvxe4qwcw32r
+
+**Eagle Song**
+
+nostr:npub1p305lmfgxfks3da7djfqqu99cy42sch28f6689gzufyezcmz45gsqjgg05 (Øystein Berge) brings a distinct sound and perspective to this curated set.
+
+nostr:naddr1qvzqqqy0kvpzqrzlflkjsvndpzmmumyjqpc2tsf24p3w5wn45w2s9cjfj93k9tg3qqjrwc3nxycnydfj95mrzwrp956ryde3943xgwfh943nywr989nrydt9vy6xvrtwj7x
+
+**Samoleti**
+
+nostr:npub196dahpjcaryl8kyz675k89c3ptnrqtz5xj85lv0m730rss3rqv2q0n6k24 (KS) brings rock band from Palekh.
+
+nostr:naddr1qvzqqqy0kvpzqt5mmwr936xf70vg94afvwt3zzhxxqk9gdy0f7clhaz78ppzxqc5qqwhgunpvd4j6vfhxcurzdf3xqcrzv35x5kn2cmewf6hxcnex5kznnpy
+
+**88 Miaumi**
+
+nostr:npub18ug6hvhzxhdz6nw6t4k7ktcjx9e5w6n5tg7226y458g0vv4y9aqq3r20ex (𝖘𝖊𝖙𝖙𝖔𝖘𝖍𝖎 𝖙𝖔𝖓𝖆𝖒𝖎) adds a bold DIY edge with deep roots in Nostr-native music communities.
+
+nostr:naddr1qvzqqqy0kvpzq0c34wewydw694xa5htdavh3yvtnga48gk3u545ftgws7ce2gt6qqy2hwumn8ghj7cnpwdehq6tnw3hkctn0wfnj7qfqwaehxw309a6x7un5v4kxc6twduhxyctnwdcxjum5dakzummjvuhszxthwden5te0wahhgtnzv9ehxurfwd6x7mpwdaexwtcqz5cnwd3hxqunqwphxserydeddeekyarvvaaqne4nw4
+
+**Love De Ma Life**
+
+nostr:npub18ug6hvhzxhdz6nw6t4k7ktcjx9e5w6n5tg7226y458g0vv4y9aqq3r20ex (𝖘𝖊𝖙𝖙𝖔𝖘𝖍𝖎 𝖙𝖔𝖓𝖆𝖒𝖎) adds a bold DIY edge with deep roots in Nostr-native music communities.
+
+nostr:naddr1qvzqqqy0kvpzq0c34wewydw694xa5htdavh3yvtnga48gk3u545ftgws7ce2gt6qqy2hwumn8ghj7cnpwdehq6tnw3hkctn0wfnj7qfqwaehxw309a6x7un5v4kxc6twduhxyctnwdcxjum5dakzummjvuhszxthwden5te0wahhgtnzv9ehxurfwd6x7mpwdaexwtcqrakx7an994jx2ttdvykkc6txv5knzdekxcmnwdpn8qmrqdph95esen28wx
+
+**Acid Forest**
+
+nostr:npub18ug6hvhzxhdz6nw6t4k7ktcjx9e5w6n5tg7226y458g0vv4y9aqq3r20ex (𝖘𝖊𝖙𝖙𝖔𝖘𝖍𝖎 𝖙𝖔𝖓𝖆𝖒𝖎) adds a bold DIY edge with deep roots in Nostr-native music communities.
+
+nostr:naddr1qvzqqqy0kvpzq0c34wewydw694xa5htdavh3yvtnga48gk3u545ftgws7ce2gt6qqy2hwumn8ghj7cnpwdehq6tnw3hkctn0wfnj7qfqwaehxw309a6x7un5v4kxc6twduhxyctnwdcxjum5dakzummjvuhszxthwden5te0wahhgtnzv9ehxurfwd6x7mpwdaexwtcqrdskx6ty94nx7un9wd6z6vfhxc6nsvpsxcmrsv3exqkngs2v97w
+
+**Mushroom Hunting v11**
+
+nostr:npub1xnd2syp22sw3m32nurpkjchdw8agw39vdnmp3urvwe9pw8rfndysx8nlcg (eardiod) brings a distinct sound and perspective to this curated set.
+
+nostr:naddr1qvzqqqy0kvpzqdx64qgz54qarhz48cxrd93w6u06saz2cm8krrcxcaj2zuwxnx6fqy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qgwwaehxw309ahx7uewd3hkctcqy3kh2umgwfhk7mfddp6kuarfdenj6a33xyknzdekx5urqvejxgurwve3956qg37awu
+
+**Memories**
+
+nostr:npub1zm95kw87nf6gkesg76jedyfejt0u2zgx2fxgxywdxc9ugq3z4w2q4m092t (Hash Power Music) leans into the independent, decentralized spirit that defines this month’s mix.
+
+nostr:naddr1qvzqqqy0kvpzq9ktfvu0axn53dnq3a49j6gnnyklc5ysv5jvsvgu6dstcspz92u5qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qg3waehxw309ahx7um5wgh8w6twv5hsqxrdv4kk7unfv4ej6vfhxcenvwfjxumrjdf48qknqj5a2rd
+
+**หรับแซงแด้ด**
+
+nostr:npub1zerqqprwvfgx8scsy0xmn8en7wtgq8pr8ts6ghryv9t6nfgwyhwsqv2zvk (zer) brings a distinct sound and perspective to this curated set.
+
+nostr:naddr1qvzqqqy0kvpzq9jxqqzxucjsv0p3qg7dhx0n8uuksqwzxwhp53wxgc2h4xjsufwaqy88wumn8ghj7mn0wvhxcmmv9uqzlc9c40st3glqhzc7pwy6uzucrc9c30st3plqhxq7pwy5uzucnc9cjsknzdekxvmnjvfhxy6rwd3knxnqyy
+
+**Play It For The Broken**
+
+nostr:npub1qpdufhjpel94srm3ett2azgf49m9dp3n5nm2j0rt0l2mlmc3ux3qza082j (crrdlx) brings a builder’s mindset to music culture, blending creation and community.
+
+nostr:naddr1qvzqqqy0kvpzqqzmcn0yrn7ttq8hrjkk46ysn2tk26rr8f8k4y7xkl74hlh3rcdzqy88wumn8ghj7mn0wvhxcmmv9uq3jamnwvaz7tmjv4kxz7fwd4hk6mmnw3ezuurfde4j7qgkwaehxw309aex2mrp0yhx6mmnw3ezuur4vghsqfrsd3shjttfwskkvmmj946xsefdvfex76m9dcknzdekxverjden8qerwvpeaashqv
+
+**Remember November 10**
+
+nostr:npub1qpdufhjpel94srm3ett2azgf49m9dp3n5nm2j0rt0l2mlmc3ux3qza082j (crrdlx) brings a builder’s mindset to music culture, blending creation and community.
+
+nostr:naddr1qvzqqqy0kvpzqqzmcn0yrn7ttq8hrjkk46ysn2tk26rr8f8k4y7xkl74hlh3rcdzqy88wumn8ghj7mn0wvhxcmmv9uq3jamnwvaz7tmjv4kxz7fwd4hk6mmnw3ezuurfde4j7qgkwaehxw309aex2mrp0yhx6mmnw3ezuur4vghsqgnjv4kk2mtzv4ez6mn0wejk6cn9wgknzvpdxymnvv3k8qenyve4xsmn2qunhgf
+
+**Superhuman Velocity**
+
+nostr:npub1hkxs8eq7dxwcszl8f9cqe7ev58crn8ek34azamkqrjevspgwf4rsm72yh5 (AI God) brings why be a king, when you can be a god..
+
+nostr:naddr1qvzqqqy0kvpzp0vdq0jpu6va3q97wjtspnajeg0s8x0ndrt69mhvq89jeqzsun28qqshxatsv4exsatdv9hz6an9d3hkx6t50yknzdekxg6njvp4xgunwwfhcqrz3y
+
+**Free Software Song**
+
+nostr:npub18ams6ewn5aj2n3wt2qawzglx9mr4nzksxhvrdc4gzrecw7n5tvjqctp424 (Derek Ross) brings a builder’s mindset to music culture, blending creation and community.
+
+nostr:naddr1qvzqqqy0kvpzq0mhp4ja8fmy48zuk5p6uy37vtk8tx9dqdwcxm32sy8nsaa8gkeyqy88wumn8ghj7mn0wvhxcmmv9uq3zamnwvaz7tmwdaehgu3wwa5kuef0qyt8wumn8ghj7mn0wd68yetvd96x2uewdaexwtcqypn8yet994ek7en5washyefdwdhkueedxymnvv3exqurydf58qenzj9txqe
+
+**Chasing Light**
+
+nostr:npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac (HoloKat) adds a distinct voice to this month’s curation.
+
+nostr:naddr1qvzqqqy0kvpzqx78pgq53vlnzmdr8l3u38eru0n3438lnxqz0mr39wg9e5j0dfq3qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgwwaehxw309ahx7uewd3hkctcppemhxue69uhhjctzw5hx6ef0qqdkx6rpwd5kueedd35kw6r595cnwd3jxsmnyd3sxq6ryvgpajwgc
+
+**Malfunction Junction**
+
+nostr:npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac (HoloKat) adds a distinct voice to this month’s curation.
+
+nostr:naddr1qvzqqqy0kvpzqx78pgq53vlnzmdr8l3u38eru0n3438lnxqz0mr39wg9e5j0dfq3qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qgwwaehxw309ahx7uewd3hkctcppemhxue69uhhjctzw5hx6ef0qq3x6ctvve6kucm5d9hkutt2w4hxxarfdahz6vfhxcergdp3xymnwdejxqj2fmc0
+
+## Music videos in Nostria
+
+- **Weather Weapons [288Hz]** by nostr:npub12znrejs4k94kp5efhyhk9rzr9jxpy6ymgrlf6py4awpkkhed7cmshs6yg6 has a music video in metadata.
+- **Empty Passenger Seat** by nostr:npub19r9qrxmckj2vyk5a5ttyt966s5qu06vmzyczuh97wj8wtyluktxqymeukr has a music video in metadata.
+
+## Nostria player modes
+
+Nostria's media player scales from a tiny floating circle to an immersive fullscreen experience, so you can keep browsing or focus fully on the track.
+
+![Reni & Boka playing in Nostria fullscreen mode](reniboka-player.png)
+
+## Support artists with zaps
+
+Zapping is one of the most important feedback loops on Nostr. If you discover a song you love in this issue, send a zap to support the artist directly and encourage more open music publishing.
+
+Even small zaps matter: they create a direct creator-audience connection and help sustain independent content creators in the Nostr ecosystem.

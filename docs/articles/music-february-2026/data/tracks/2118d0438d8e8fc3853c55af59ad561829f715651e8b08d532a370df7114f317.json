@@ -1,0 +1,70 @@
+{
+  "content": "",
+  "created_at": 1765800733,
+  "id": "2118d0438d8e8fc3853c55af59ad561829f715651e8b08d532a370df7114f317",
+  "kind": 36787,
+  "pubkey": "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40",
+  "sig": "9b977c1a433cab212b321c9cf24ebbb221a2b399d753703f78d397fb01fff1d754515c30995b43e95253d720d12c440b0df22701cff46d9064bf19e610f19f72",
+  "tags": [
+    [
+      "d",
+      "acid-forest-1765800668290-4"
+    ],
+    [
+      "title",
+      "Acid Forest"
+    ],
+    [
+      "url",
+      "https://media.basspistol.com/sakrecoer.com/the-house-of-set/5-acid-forest.mp3"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "t",
+      "electronic"
+    ],
+    [
+      "t",
+      "electro"
+    ],
+    [
+      "t",
+      "house"
+    ],
+    [
+      "t",
+      "idm"
+    ],
+    [
+      "alt",
+      "Music track: Acid Forest by Sakrecoer"
+    ],
+    [
+      "image",
+      "https://shop.basspistol.com/bpist-007/cover_600.jpg"
+    ],
+    [
+      "artist",
+      "Sakrecoer"
+    ],
+    [
+      "p",
+      "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40"
+    ],
+    [
+      "album",
+      "The House Of Set"
+    ],
+    [
+      "released",
+      "2025-09-30"
+    ],
+    [
+      "client",
+      "nodecast.xyz"
+    ]
+  ]
+}

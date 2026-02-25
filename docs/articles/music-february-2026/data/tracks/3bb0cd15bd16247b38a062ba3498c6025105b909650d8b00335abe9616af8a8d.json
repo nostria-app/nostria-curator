@@ -1,0 +1,82 @@
+{
+  "content": "Electronic Fusion",
+  "created_at": 1769962981,
+  "id": "3bb0cd15bd16247b38a062ba3498c6025105b909650d8b00335abe9616af8a8d",
+  "kind": 36787,
+  "pubkey": "13598661e652762d2d3d668e3a37dc205e736f584eb9ce0527a7f259daae68e9",
+  "sig": "ee886854266df0109c9168cb950879a05b61b19f8a217555f31e366890697e7f3831def5306a8ba9c858c67d398832fb6a5b9b11e1c5659580a09f9de061b072",
+  "tags": [
+    [
+      "d",
+      "track-1769962981574-peo38f6c9"
+    ],
+    [
+      "title",
+      "Intro (Lost in Space)"
+    ],
+    [
+      "artist",
+      "electric jidam"
+    ],
+    [
+      "url",
+      "https://electricjidam.de/wp-content/uploads/2024/04/01-Electric-Jidam-Intro.mp3"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "released",
+      "2024-03-18"
+    ],
+    [
+      "duration",
+      "216"
+    ],
+    [
+      "format",
+      "audio/mpeg"
+    ],
+    [
+      "image",
+      "https://electricjidam.de/nostr/ej_cover_mp3.jpeg"
+    ],
+    [
+      "ai_generated",
+      "false"
+    ],
+    [
+      "t",
+      "electronic"
+    ],
+    [
+      "t",
+      "jazz"
+    ],
+    [
+      "license",
+      "All Rights Reserved"
+    ],
+    [
+      "zap",
+      "13598661e652762d2d3d668e3a37dc205e736f584eb9ce0527a7f259daae68e9",
+      "wss://relay.primal.net",
+      "900"
+    ],
+    [
+      "zap",
+      "605343ab36f8677a0d35f7e387927bdaff488a92b3d727fb2a43cf7a9573c8d4",
+      "wss://relay.primal.net",
+      "100"
+    ],
+    [
+      "alt",
+      "Music track: Intro (Lost in Space) by electric jidam"
+    ],
+    [
+      "client",
+      "sunami.app"
+    ]
+  ]
+}

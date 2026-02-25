@@ -1,0 +1,42 @@
+{
+  "content": "Lyrics:\n[Verse]\nCity sleeps sound\nSirens scream now\nI wish I could sleep\nI wish I knew how\n\n[Prechorus]\nMy head is a mess\nA glorious stress\n\n[Chorus]\nBomp bomp bomp\nI think I broke something\nBomp bomp bomp\nMalfunction Junction\n\n[Verse 2]\nGears grind slow\nNo place to go\nBut I gotta move\nProve I'm still in the groove\n\n[Prechorus]\nMy head is a mess\nA glorious stress\n\n[Chorus]\nBomp bomp bomp\nI think I broke something\nBomp bomp bomp\nMalfunction Junction",
+  "created_at": 1762441177,
+  "id": "4d258a86b9086c59f957c0d6cbefec6c84a2223fd2decc98b91a88983c1c78e6",
+  "kind": 36787,
+  "pubkey": "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+  "sig": "c654ac841810e9cb5dae0645644332ddc0cf29f1d73f4c2460c9c2222614bfc0c9e89a0fc9df9b63b02f75fd2df075665e0f26b35b538000c69075d150188e51",
+  "tags": [
+    [
+      "d",
+      "malfunction-junction-1762441177720"
+    ],
+    [
+      "title",
+      "Malfunction Junction"
+    ],
+    [
+      "url",
+      "https://blossom.primal.net/4cb338dc8a54d73bdcb4f883512bdc450835d3742347e057642963bdf20f2ae8"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "alt",
+      "Music track: Malfunction Junction by Artist"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/9eab1f93611f7df48a96116aef884a308e9e72adfb24c81d4fc3e19f436a5883.png"
+    ],
+    [
+      "ai-generated",
+      "true"
+    ],
+    [
+      "client",
+      "crush.shakespeare.wtf"
+    ]
+  ]
+}

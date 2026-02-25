@@ -1,0 +1,59 @@
+{
+  "content": "A song from a earlier Value4Value/DeMu release called Jesse EP.",
+  "created_at": 1768231561,
+  "id": "a165329cdf0129e1bae09ad8a30f467f4f41b474482349d61ccab0ac16046f77",
+  "kind": 36787,
+  "pubkey": "0c5f4fed28326d08b7be6c920070a5c12aa862ea3a75a39502e249916362ad11",
+  "sig": "d268a85817749b461954f570087c46761b9f82670834b9f3cc243d56f77bd475674e07424d14829d0a13cdfb4fec9e5d9d744a7dc6af948c03bdd95271ea5786",
+  "tags": [
+    [
+      "d",
+      "7b311252-618a-4271-bd97-c28e9f25ea4f"
+    ],
+    [
+      "title",
+      "Eagle Song"
+    ],
+    [
+      "url",
+      "https://mmmusic.show/msp/Pickle_Popsicle_EP/B_05_Eagle_Song.mp3"
+    ],
+    [
+      "artist",
+      "Øystein Berge"
+    ],
+    [
+      "album",
+      "Pickle Popsicle EP"
+    ],
+    [
+      "track_number",
+      "5"
+    ],
+    [
+      "client",
+      "MSP 2.0"
+    ],
+    [
+      "alt",
+      "Music track: Eagle Song by Øystein Berge"
+    ],
+    [
+      "image",
+      "https://mmmusic.show/msp/Pickle_Popsicle_EP/Homegrown_back_cover.png"
+    ],
+    [
+      "released",
+      "01/12/2026"
+    ],
+    [
+      "language",
+      "en"
+    ],
+    [
+      "zap",
+      "wintersanctuary887079@getalby.com",
+      "100"
+    ]
+  ]
+}

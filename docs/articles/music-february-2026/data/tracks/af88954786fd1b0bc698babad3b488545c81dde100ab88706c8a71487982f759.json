@@ -1,0 +1,70 @@
+{
+  "content": "",
+  "created_at": 1763710449,
+  "id": "af88954786fd1b0bc698babad3b488545c81dde100ab88706c8a71487982f759",
+  "kind": 36787,
+  "pubkey": "bd8d03e41e699d880be749700cfb2ca1f0399f368d7a2eeec01cb2c8050e4d47",
+  "sig": "aa5419bdd4d9e017faf4c50236fa56882f456d547f839e70ee2e577d87cc84d4582ffac181b2313ad7aeeb644020a404c5f3c07ab864e7700e1761e63a801b4b",
+  "tags": [
+    [
+      "d",
+      "superhuman-velocity-1762590529797"
+    ],
+    [
+      "title",
+      "Superhuman Velocity"
+    ],
+    [
+      "url",
+      "https://blossom.primal.net/3d848d599abb787f4642c130e668f88278bd301a0f33f9c897712391c441aab6"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "t",
+      "ai-generated"
+    ],
+    [
+      "alt",
+      "Music track: Superhuman Velocity by Karnage"
+    ],
+    [
+      "image",
+      "https://blossom.primal.net/c9e687beb4e2275c7fed2006bb1cc776741811a6c81d4c98dea4b63c4fd2b01c.png"
+    ],
+    [
+      "artist",
+      "Karnage"
+    ],
+    [
+      "p",
+      "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411"
+    ],
+    [
+      "released",
+      "2025-11-08"
+    ],
+    [
+      "ai-generated",
+      "true"
+    ],
+    [
+      "zap",
+      "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+      "",
+      "1"
+    ],
+    [
+      "zap",
+      "bd8d03e41e699d880be749700cfb2ca1f0399f368d7a2eeec01cb2c8050e4d47",
+      "",
+      "1"
+    ],
+    [
+      "client",
+      "crushmusic.netlify.app"
+    ]
+  ]
+}

@@ -1,0 +1,625 @@
+[
+  {
+    "pubkey": "28ca019b78b494c25a9da2d645975a8501c7e99b11302e5cbe748ee593fcb2cc",
+    "npub": "npub19r9qrxmckj2vyk5a5ttyt966s5qu06vmzyczuh97wj8wtyluktxqymeukr",
+    "outboxRelays": [
+      "wss://bitcoiner.social/",
+      "wss://nos.lol/",
+      "wss://nostr.mutinywallet.com/",
+      "wss://nostr.wine/",
+      "wss://purplepag.es/",
+      "wss://relay.damus.io/",
+      "wss://relay.nostr.band/",
+      "wss://relay.primal.net/",
+      "wss://relay.wavlake.com/"
+    ],
+    "profile": {
+      "pubkey": "28ca019b78b494c25a9da2d645975a8501c7e99b11302e5cbe748ee593fcb2cc",
+      "profileEventId": "8248c09ea1d426922e423537011e799794a237e826aea99f882a88ba8c2451c9",
+      "displayName": "Joe Martin",
+      "metadata": {
+        "name": "JoeMartin",
+        "nip05": "joemartinmusic@tunestr.io",
+        "about": "It's all about the song.\n21st century troubadour, based in Isle of Man 🇮🇲\n\nPre-order my new album at https://tinyurl.com/joemartinmusic",
+        "lud16": "joemartinmusic@getalby.com",
+        "display_name": "Joe Martin",
+        "picture": "https://blossom.primal.net/ac9ac0bf94128d9818bba4e35819af0353355e8ae7a14c7707d8d67678075406.jpg",
+        "banner": "https://blossom.primal.net/7ea653ec56edea9f9926ca9dd7709b550a8e8937cf72a1c7c61254677c9c8747.jpg",
+        "website": "https://linktr.ee/joe_martin_music"
+      },
+      "outboxRelays": [
+        "wss://bitcoiner.social/",
+        "wss://nos.lol/",
+        "wss://nostr.mutinywallet.com/",
+        "wss://nostr.wine/",
+        "wss://purplepag.es/",
+        "wss://relay.damus.io/",
+        "wss://relay.nostr.band/",
+        "wss://relay.primal.net/",
+        "wss://relay.wavlake.com/"
+      ]
+    }
+  },
+  {
+    "pubkey": "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+    "npub": "npub1l5hwyh7saazz4gdhgp9fx4939e25asx74kq6dj9ahrx69lcfxulsudhdrf",
+    "outboxRelays": [
+      "wss://nos.lol/",
+      "wss://relay.damus.io/",
+      "wss://relay.fountain.fm/",
+      "wss://relay.primal.net/",
+      "wss://nostr.land/",
+      "wss://nostr.wine/"
+    ],
+    "profile": {
+      "pubkey": "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+      "profileEventId": "d4df72b9d90b48a417ea9d5f9bbc72e989308b753517b47c71c34629791a77fb",
+      "displayName": "Strange Love",
+      "metadata": {
+        "banner": "https://blossom.primal.net/48716bdd1c9cf0766d902856a690de87be3c8d7422702e7d91a19daa6b7d6593.jpg",
+        "website": "https://strangeloveofmusic.wixsite.com/strangelove",
+        "lud06": "",
+        "nip05": "strangeloveofmusic@fountain.fm",
+        "picture": "https://ik.imagekit.io/pnbizia3c/nostr/profiles/npub1l5hwyh7saazz4gd_Ney1KeQl0",
+        "lud16": "strangeloveofmusic@rizful.com",
+        "display_name": "Strange Love",
+        "about": "Canadian rock band from the Niagara Region. We pride ourselves in having a diverse range of influences that come out in our songwriting. We are releasing songs all through 2026 on NOSTR and RSS🤘\nJosh Moroz - vocals/bass\nAlex Nicol - drums/vocals/engineering\nAnthony Columbro - guitar/keys/production\nFountain link 🎧 (audio): \nhttps://fountain.fm/artist/oRQ9Bi6W2HVsOyhPiJPs\nNostube link 📽 (video): https://nostu.be/p/nprofile1qy2hwumn8ghj7un9d3shjtnyv9kh2uewd9hj7qghwaehxw309aex2mrp0yh8qunfd4skctnwv46z7qpql5hwyh7saazz4gdhgp9fx4939e25asx74kq6dj9ahrx69lcfxulskpgxwz",
+        "name": "strangeloveofmusic"
+      },
+      "outboxRelays": [
+        "wss://nos.lol/",
+        "wss://relay.damus.io/",
+        "wss://relay.fountain.fm/",
+        "wss://relay.primal.net/",
+        "wss://nostr.land/",
+        "wss://nostr.wine/"
+      ]
+    }
+  },
+  {
+    "pubkey": "50a63cca15b16b60d329b92f628c432c8c12689b40fe9d0495eb836b5f2df637",
+    "npub": "npub12znrejs4k94kp5efhyhk9rzr9jxpy6ymgrlf6py4awpkkhed7cmshs6yg6",
+    "outboxRelays": [
+      "wss://relay.primal.net/",
+      "wss://relay.damus.io/",
+      "https://relay.origin.land/",
+      "wss://relay.credenso.cafe/",
+      "wss://purpura.cloud/",
+      "wss://relay.ryzizub.com/"
+    ],
+    "profile": {
+      "pubkey": "50a63cca15b16b60d329b92f628c432c8c12689b40fe9d0495eb836b5f2df637",
+      "profileEventId": "782185af288fb57ae2269b4eed0cb358a9f098ac318ebd3f55ea24b1948ae668",
+      "displayName": "Matt Finlay",
+      "metadata": {
+        "name": "MattFinlay",
+        "about": "Anti-narrative songwriter/musician. Genre hopper.\n\nMy music is all available for free. I appreciate your support!\nhttps://phafe.com/mattfinlay",
+        "lud16": "mattfinlay@rizful.com",
+        "nip05": "mattfinlay@rizful.com",
+        "picture": "https://f4.bcbits.com/img/0031448958_25.jpg",
+        "displayName": "Matt Finlay",
+        "display_name": "Matt Finlay",
+        "website": "https://phafe.com/mattfinlay"
+      },
+      "outboxRelays": [
+        "wss://relay.primal.net/",
+        "wss://relay.damus.io/",
+        "https://relay.origin.land/",
+        "wss://relay.credenso.cafe/",
+        "wss://purpura.cloud/",
+        "wss://relay.ryzizub.com/"
+      ]
+    }
+  },
+  {
+    "pubkey": "324a42ebc18a5d5c435941e415d6ed1e409f76a2ac058bcf2f1572e70603f40e",
+    "npub": "npub1xf9y967p3fw4cs6eg8jpt4hdreqf7a4z4szchne0z4ewwpsr7s8q6nc7n0",
+    "outboxRelays": [
+      "wss://nos.lol/",
+      "wss://relay.damus.io/",
+      "wss://ribo.eu.nostria.app/",
+      "wss://relay.primal.net/",
+      "wss://nostr.huszonegy.world/"
+    ],
+    "profile": {
+      "pubkey": "324a42ebc18a5d5c435941e415d6ed1e409f76a2ac058bcf2f1572e70603f40e",
+      "profileEventId": "8f5b695beadca5e2537e9a0bf8a7db6d0ea0355b5ed8fcaf13271ac0e5a43325",
+      "displayName": "Reni & Boka",
+      "metadata": {
+        "display_name": "Reni & Boka",
+        "name": "reniboka",
+        "about": "moonlit forests, sunlit riverbanks :: indie duo of reni iszlai & boka mark szasz :: budapest, hungary",
+        "picture": "https://mibo.eu.nostria.app/408a14390a25b54d9d807ff4dd44ace3f549f8eae4743937e6b6fad12265eb2f.webp",
+        "banner": "https://mibo.eu.nostria.app/f38350707ca9d42aa4db9ab8bb9e8a57387c05323ece2dee18ca46dff66a0c9c.webp",
+        "website": "www.reniboka.hu",
+        "lud16": "reniboka@wallet.yakihonne.com"
+      },
+      "outboxRelays": [
+        "wss://nos.lol/",
+        "wss://relay.damus.io/",
+        "wss://ribo.eu.nostria.app/",
+        "wss://relay.primal.net/",
+        "wss://nostr.huszonegy.world/"
+      ]
+    }
+  },
+  {
+    "pubkey": "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+    "npub": "npub1fr5hvptm7t83xvczqd2mt5jrlrwcz0cexpgarjcygyuffar2e3psy8kc69",
+    "outboxRelays": [
+      "wss://relay.nostr.band/",
+      "wss://relay.primal.net/",
+      "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+      "wss://nostr.mikoshi.de/",
+      "wss://premium.nostr.bar/",
+      "wss://relay.damus.io/",
+      "wss://relay.nostr.hu/"
+    ],
+    "profile": {
+      "pubkey": "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+      "profileEventId": "78ad7c353814059e9c50a479387a2cd6a82fa5a58c33a0ad1254c80191235e54",
+      "displayName": "Iggy",
+      "metadata": {
+        "about": "Making lofi chill guitar music 🎸 \nExperimenting with beats and post punk 🧷",
+        "lud06": "",
+        "display_name": "",
+        "website": "https://sunami.app/p/nprofile1qqsy36tkq4al9ncnxvpqx4d46fpl3hvp8uvnq5w3evzyzwy5734vcsc7x9agd",
+        "name": "Iggy",
+        "nip05": "iggygolo@sunami.app",
+        "picture": "https://blossom.primal.net/75b73d3aa63dc84cb8adffe716eeac3e2013c21e81373aecc9e19b24b03fd33d.png",
+        "banner": "https://blossom.primal.net/58c2f1d2d8e29314761907bb375260fe2f6798ebfc65f6d2eed25e0958c60eb5.jpg",
+        "lud16": "supremacyzesty367312@getalby.com"
+      },
+      "outboxRelays": [
+        "wss://relay.nostr.band/",
+        "wss://relay.primal.net/",
+        "wss://nos.lol/%20wss://nostr.land/%20%20avatar%20wss://nostr.wine/%20%20avatar%20wss://purplerelay.com/%20wss://relay.damus.io/%20wss://relay.snort.social/",
+        "wss://nostr.mikoshi.de/",
+        "wss://premium.nostr.bar/",
+        "wss://relay.damus.io/",
+        "wss://relay.nostr.hu/"
+      ]
+    }
+  },
+  {
+    "pubkey": "9cd85dd6672ecfbc9bd070d39cd8e2a20e760e3e478ee919b76aae56cc3e39b3",
+    "npub": "npub1nnv9m4n89m8mex7swrfeek8z5g88vr37g78wjxdhd2h9dnp78xesfcvsxr",
+    "outboxRelays": [
+      "wss://relay.fountain.fm/",
+      "wss://nostr.mom/",
+      "wss://nostr.wine/",
+      "wss://nostrelites.org/",
+      "wss://relay.primal.net/",
+      "wss://wot.nostr.net/",
+      "wss://relay.damus.io/",
+      "wss://temp.iris.to/",
+      "wss://vault.iris.to/",
+      "wss://relay.nostr.band/"
+    ],
+    "profile": {
+      "pubkey": "9cd85dd6672ecfbc9bd070d39cd8e2a20e760e3e478ee919b76aae56cc3e39b3",
+      "profileEventId": "e5fec87f6e9060aab18d9efcb4ca5c850ee24b5dbf7f5f7e64ec6f7093fc2245",
+      "displayName": "Haleen",
+      "metadata": {
+        "about": "Haleen, a musical project by a Belgian couple based in off-grid Portugal, has crafted a distinctive genre inspired by their energy shift and consciousness transformation.",
+        "banner": "https://media.ditto.pub/c419c665f64f057a6669ee5ce57e8183de0c844c4bc2f43cc91bc55b9f709b12.png",
+        "bot": false,
+        "display_name": "Haleen",
+        "lud16": "user38866896@fountain.fm",
+        "name": "Haleen",
+        "nip05": "haleen@ditto.pub",
+        "picture": "https://ik.imagekit.io/pnbizia3c/nostr/profiles/npub1nnv9m4n89m8mex7_lkTa0Mpes",
+        "website": "https://fountain.fm/artist/o4G8mlecYblN9FSIxaiI",
+        "fields": [
+          [
+            "healing",
+            "music"
+          ],
+          [
+            "432hz",
+            "music"
+          ],
+          [
+            "mantra",
+            "music"
+          ],
+          [
+            "singer songwriter",
+            "music"
+          ],
+          [
+            "electronic",
+            "music"
+          ]
+        ]
+      },
+      "outboxRelays": [
+        "wss://relay.fountain.fm/",
+        "wss://nostr.mom/",
+        "wss://nostr.wine/",
+        "wss://nostrelites.org/",
+        "wss://relay.primal.net/",
+        "wss://wot.nostr.net/",
+        "wss://relay.damus.io/",
+        "wss://temp.iris.to/",
+        "wss://vault.iris.to/",
+        "wss://relay.nostr.band/"
+      ]
+    }
+  },
+  {
+    "pubkey": "13598661e652762d2d3d668e3a37dc205e736f584eb9ce0527a7f259daae68e9",
+    "npub": "npub1zdvcvc0x2fmz6tfav68r5d7uyp08xm6cf6uuupf85le9nk4wdr5se7x9vv",
+    "outboxRelays": [],
+    "profile": {
+      "pubkey": "13598661e652762d2d3d668e3a37dc205e736f584eb9ce0527a7f259daae68e9",
+      "profileEventId": "ced510a63e0b0780fae3cc03005860b7558e1b1a793ebeb60bcb52a72ec6e21a",
+      "displayName": "electric jidam",
+      "metadata": {
+        "about": "An imaginary hybrid band of robots and man.\nElectronic Fusion from Kiel, Germany.\nEP “In Space We Trust” out now!",
+        "banner": "https://m.primal.net/IBmo.png",
+        "display_name": "electric jidam",
+        "lud16": "azurestingray4@primal.net",
+        "name": "electric jidam",
+        "picture": "https://m.primal.net/IBmf.jpg",
+        "website": "https://electricjidam.de/tree"
+      },
+      "outboxRelays": []
+    }
+  },
+  {
+    "pubkey": "9ba1ad878055e31fa882a9c3bac5bb114d8d55d4ad5ea6ce49c2a4d542fea785",
+    "npub": "npub1nws6mpuq2h33l2yz48pm43dmz9xc64w54402dnjfc2jd2sh757zstcq7sw",
+    "outboxRelays": [
+      "wss://eden.nostr.land/",
+      "wss://nostr.einundzwanzig.space/",
+      "wss://relay.nostr.band/",
+      "wss://relay.snort.social/",
+      "wss://relay.primal.net/",
+      "wss://nostr.bitcoinplebs.de/",
+      "wss://nostr.cercatrova.me/",
+      "wss://nos.lol/",
+      "wss://relay.damus.io/"
+    ],
+    "profile": {
+      "pubkey": "9ba1ad878055e31fa882a9c3bac5bb114d8d55d4ad5ea6ce49c2a4d542fea785",
+      "profileEventId": "2e89bcd5af0da73f5cc8838b5e15aadc9b73e446c6a05d03c897536d4db63e79",
+      "displayName": "Peter Paulsen",
+      "metadata": {
+        "about": "Bass guitarist and artist from Kiel, Germany.\nAmbient soundscapes and improvisations.\nAlbum “INNER SPACE” out now!",
+        "banner": "https://blossom.primal.net/53e856df8e8a21ca44099208ee7ab74a852c1a69a58edf83e74433ff8d06333b.jpg",
+        "display_name": "Peter Paulsen",
+        "lud16": "olivinemoth10@primal.net",
+        "name": "Peter Paulsen",
+        "picture": "https://blossom.primal.net/2a9245cbea41bd6837e002887f0fc74048b261d53750a0cfff1d3650202dbd0b.jpg",
+        "website": "https://peterpaulsen.net/tree"
+      },
+      "outboxRelays": [
+        "wss://eden.nostr.land/",
+        "wss://nostr.einundzwanzig.space/",
+        "wss://relay.nostr.band/",
+        "wss://relay.snort.social/",
+        "wss://relay.primal.net/",
+        "wss://nostr.bitcoinplebs.de/",
+        "wss://nostr.cercatrova.me/",
+        "wss://nos.lol/",
+        "wss://relay.damus.io/"
+      ]
+    }
+  },
+  {
+    "pubkey": "17e2889fba01021d048a13fd0ba108ad31c38326295460c21e69c43fa8fbe515",
+    "npub": "npub1zl3g38a6qypp6py2z07shggg45cu8qex992xpss7d8zrl28mu52s4cjajh",
+    "outboxRelays": [
+      "wss://nos.lol/",
+      "wss://relay.damus.io/",
+      "wss://relay.primal.net/",
+      "wss://ribo.eu.nostria.app/"
+    ],
+    "profile": {
+      "pubkey": "17e2889fba01021d048a13fd0ba108ad31c38326295460c21e69c43fa8fbe515",
+      "profileEventId": "1e049f4e72f0a173e3b71f3178fdd128b01da580a36939c93b4b594c4011710c",
+      "displayName": "SondreB",
+      "metadata": {
+        "display_name": "SondreB",
+        "name": "sondreb",
+        "about": "Founder of Nostria. Founder of Liberstad. Voluntaryist. Decentralize everything.",
+        "picture": "https://mibo.eu.nostria.app/ba0871a6c5f8253fdf636c450b6ce5fc12eb24fc5ff9810f922cad9bb371de2c.webp",
+        "banner": "https://mibo.eu.nostria.app/9df5ea923da8cecaf426ab57e2c337d86df4c396564e27b263519aa2def6e6e0.webp",
+        "website": "https://sondreb.com",
+        "lud16": "sondreb@coinos.io",
+        "nip05": "sondreb@nostria.app"
+      },
+      "outboxRelays": [
+        "wss://nos.lol/",
+        "wss://relay.damus.io/",
+        "wss://relay.primal.net/",
+        "wss://ribo.eu.nostria.app/"
+      ]
+    }
+  },
+  {
+    "pubkey": "0c5f4fed28326d08b7be6c920070a5c12aa862ea3a75a39502e249916362ad11",
+    "npub": "npub1p305lmfgxfks3da7djfqqu99cy42sch28f6689gzufyezcmz45gsqjgg05",
+    "outboxRelays": [],
+    "profile": null
+  },
+  {
+    "pubkey": "2e9bdb8658e8c9f3d882d7a96397110ae6302c54348f4fb1fbf45e3842230314",
+    "npub": "npub196dahpjcaryl8kyz675k89c3ptnrqtz5xj85lv0m730rss3rqv2q0n6k24",
+    "outboxRelays": [],
+    "profile": {
+      "pubkey": "2e9bdb8658e8c9f3d882d7a96397110ae6302c54348f4fb1fbf45e3842230314",
+      "profileEventId": "1dbb6395ef8ba22996ad698e75075492182d9be1b58399b66d8e3b369865a199",
+      "displayName": "KS",
+      "metadata": {
+        "about": "Rock band from Palekh",
+        "banner": "https://nostr.download/4526c33e9d2df623e810ead87350885fae1d1d2d0664fb4dd052ed2a2879c479.jpg",
+        "lud16": "ks@coinos.io",
+        "name": "KS",
+        "picture": "https://nostr.download/7da45caea9cc56ff85c407296f82f129ab6a317f859e27b3d439e871a1f4a20b.jpg"
+      },
+      "outboxRelays": []
+    }
+  },
+  {
+    "pubkey": "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40",
+    "npub": "npub18ug6hvhzxhdz6nw6t4k7ktcjx9e5w6n5tg7226y458g0vv4y9aqq3r20ex",
+    "outboxRelays": [
+      "wss://basspistol.org/",
+      "wss://tortellino.basspistol.org/",
+      "wss://wot.basspistol.org/"
+    ],
+    "profile": {
+      "pubkey": "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40",
+      "profileEventId": "36eb902eb4bbeabd56927c4698866bd66a10415ea405e59a1d241e291da1a466",
+      "displayName": "𝖘𝖊𝖙𝖙𝖔𝖘𝖍𝖎 𝖙𝖔𝖓𝖆𝖒𝖎",
+      "metadata": {
+        "name": "setto",
+        "picture": "https://tortellino.basspistol.org/61355af54d63b4e00c59a29ca4a32044597ed5bfaf4d5791ec32dd4722ef62f6.png",
+        "about": "Resident of planet dyne.org co-founder of basspistol.com \nHome is not a place, it's a public key.  \n🏴 FR|SE|EN|ES|DE\nOn nostr since Block 750'951\n#choomScroll",
+        "nip05": "setto@basspistol.org",
+        "banner": "https://basspistol.org/f26d2c08497fc2e3ae164529909c19694ba94d8d3c25f3a8de90537890fbbe36.png",
+        "website": "https://setto.basspistol.com/linktree",
+        "display_name": "𝖘𝖊𝖙𝖙𝖔𝖘𝖍𝖎 𝖙𝖔𝖓𝖆𝖒𝖎",
+        "displayName": "𝖘𝖊𝖙𝖙𝖔𝖘𝖍𝖎 𝖙𝖔𝖓𝖆𝖒𝖎",
+        "lud16": "setto@basspistol.org",
+        "pronouns": "fabulous"
+      },
+      "outboxRelays": [
+        "wss://basspistol.org/",
+        "wss://tortellino.basspistol.org/",
+        "wss://wot.basspistol.org/"
+      ]
+    }
+  },
+  {
+    "pubkey": "34daa8102a541d1dc553e0c36962ed71fa8744ac6cf618f06c764a171c699b49",
+    "npub": "npub1xnd2syp22sw3m32nurpkjchdw8agw39vdnmp3urvwe9pw8rfndysx8nlcg",
+    "outboxRelays": [
+      "wss://nos.lol/",
+      "wss://nostr.wine/",
+      "wss://atlas.nostr.land/",
+      "wss://relay.damus.io/",
+      "wss://nostr-relay.app/",
+      "wss://nostr.oxtr.dev/",
+      "wss://relayable.org/",
+      "wss://relay.primal.net/",
+      "wss://relay.nostr.bg/",
+      "wss://relay.nostr.band/",
+      "wss://yabu.me/",
+      "wss://nostr.mom/",
+      "wss://auth.nostr1.com/"
+    ],
+    "profile": {
+      "pubkey": "34daa8102a541d1dc553e0c36962ed71fa8744ac6cf618f06c764a171c699b49",
+      "profileEventId": "61e3bbffef2e74011ba6eb88b0ab686a1063405def0ee04655b24af392dd2cb5",
+      "displayName": "eardiod",
+      "metadata": {
+        "name": "eardiod",
+        "display_name": "eardiod",
+        "picture": "https://image.nostr.build/50022db72b1318c1ee14db779d9e3a6be871d93edbee3ef284f0be1714f6603d.jpg",
+        "banner": "https://image.nostr.build/308cae125f97e2a356340c587c038444d5513c5e9d8b122db59641a3a4eca8da.jpg",
+        "website": "",
+        "about": "",
+        "nip05": "isocyanates@eardiod.basspistol.com",
+        "lud16": "lushnessattentive86774@getalby.com",
+        "lud06": "LNURL1DP68GURN8GHJ7EM9W3SKCCNE9E3K7MF09EMK2MRV944KUMMHDCHKCMN4WFK8QTMVW4EKSMN9WDEKZAR5V4H8G6TKV5URVDEHXS0HVEQJ",
+        "pubkey": "34daa8102a541d1dc553e0c36962ed71fa8744ac6cf618f06c764a171c699b49",
+        "is_deleted": false
+      },
+      "outboxRelays": [
+        "wss://nos.lol/",
+        "wss://nostr.wine/",
+        "wss://atlas.nostr.land/",
+        "wss://relay.damus.io/",
+        "wss://nostr-relay.app/",
+        "wss://nostr.oxtr.dev/",
+        "wss://relayable.org/",
+        "wss://relay.primal.net/",
+        "wss://relay.nostr.bg/",
+        "wss://relay.nostr.band/",
+        "wss://yabu.me/",
+        "wss://nostr.mom/",
+        "wss://auth.nostr1.com/"
+      ]
+    }
+  },
+  {
+    "pubkey": "16cb4b38fe9a748b6608f6a596913992dfc50906524c8311cd360bc40222ab94",
+    "npub": "npub1zm95kw87nf6gkesg76jedyfejt0u2zgx2fxgxywdxc9ugq3z4w2q4m092t",
+    "outboxRelays": [
+      "wss://nostr.wine/",
+      "wss://relay.damus.io/",
+      "wss://relay.primal.net/",
+      "wss://relay.mostr.pub/",
+      "wss://basspistol.org/"
+    ],
+    "profile": {
+      "pubkey": "16cb4b38fe9a748b6608f6a596913992dfc50906524c8311cd360bc40222ab94",
+      "profileEventId": "91d5bcc1b96344c43dee3c88a4ef49f3cb01ec871d299b7ed877a12e1cdea25f",
+      "displayName": "Hash Power Music",
+      "metadata": {
+        "display_name": "Hash Power Music",
+        "name": "Hash Power Music",
+        "picture": "https://image.nostr.build/5faa58bb177c6feffd501595985c4470e1b4a0d412b63afeac1cc6a9d0f22595.jpg",
+        "about": "We are a v4v music group dedicated to pushing forward decentralized music and empowering independent artists\n\nIn association with Cannabis Records and Basset Management\n\nThe Trusted\nMOOKY\nVicious Clay\nThe Retrograde\nCircle the Earth\nKazuki Tokaji\nThe Velvicks",
+        "lud16": "cannabisrecords@coinos.io",
+        "banner": "https://i.nostr.build/PUwkGMM8kpJAV6zy.png"
+      },
+      "outboxRelays": [
+        "wss://nostr.wine/",
+        "wss://relay.damus.io/",
+        "wss://relay.primal.net/",
+        "wss://relay.mostr.pub/",
+        "wss://basspistol.org/"
+      ]
+    }
+  },
+  {
+    "pubkey": "164600046e625063c31023cdb99f33f396801c233ae1a45c646157a9a50e25dd",
+    "npub": "npub1zerqqprwvfgx8scsy0xmn8en7wtgq8pr8ts6ghryv9t6nfgwyhwsqv2zvk",
+    "outboxRelays": [
+      "wss://relay.nostr.band/",
+      "wss://nos.lol/"
+    ],
+    "profile": {
+      "pubkey": "164600046e625063c31023cdb99f33f396801c233ae1a45c646157a9a50e25dd",
+      "profileEventId": "061a2c119ab9e1d76588524c6a4444d009f10f0c168fbe853ae26f7bf1c95d1a",
+      "displayName": "zer",
+      "metadata": {
+        "bot": false,
+        "display_name": "zer",
+        "lud16": "npub1zerqqprwvfgx8scsy0xmn8en7wtgq8pr8ts6ghryv9t6nfgwyhwsqv2zvk@npub.cash",
+        "name": "zer",
+        "picture": "https://blossom.primal.net/e3ff67097d4c49963f10fa3e18be1a767aae81e635fd29064bde024feca5e5c8.jpg",
+        "displayName": "zer"
+      },
+      "outboxRelays": [
+        "wss://relay.nostr.band/",
+        "wss://nos.lol/"
+      ]
+    }
+  },
+  {
+    "pubkey": "005bc4de41cfcb580f71cad6ae8909a976568633a4f6a93c6b7fd5bfef11e1a2",
+    "npub": "npub1qpdufhjpel94srm3ett2azgf49m9dp3n5nm2j0rt0l2mlmc3ux3qza082j",
+    "outboxRelays": [
+      "wss://nos.lol/",
+      "wss://offchain.pub/",
+      "wss://relay.momostr.pink/",
+      "wss://relay.mostr.pub/"
+    ],
+    "profile": {
+      "pubkey": "005bc4de41cfcb580f71cad6ae8909a976568633a4f6a93c6b7fd5bfef11e1a2",
+      "profileEventId": "6d22738c581f86419f5b3298eedeb2182cfe6d6e46461128108ea646428a98d9",
+      "displayName": "crrdlx",
+      "metadata": {
+        "display_name": "crrdlx",
+        "name": "crrdlx",
+        "picture": "https://ipfs.nftshowroom.com/ipfs/QmWBytuud8R4RcRvki9wZsTSYZDY76Ae8S3jcAiwgokYYv",
+        "pubkey": "005bc4de41cfcb580f71cad6ae8909a976568633a4f6a93c6b7fd5bfef11e1a2",
+        "banner": "https://files.peakd.com/file/peakd-hive/crrdlx/23xAVm3GLZZsyfAryaJf3tLuGFpfU2z15HonXD43umXqYs5HdbRTyV12cJXTq25vYT8ok.jpg",
+        "about": "\"CR\" for short. Edited \"Kicking the Hornet's Nest\" (everything Satoshi wrote publicly in chronological order). Made the Nostr Wiki at https://nostrwiki.vercel.app and Nostr bridges: Nostrdon (with Mastodon) & Hostr (with Hive). Home page: https://crrdlx.vercel.app",
+        "lud06": "LNURL1DP68GURN8GHJ7AMPD3KX2APW09SKK6TGDAHXUEFWVDHK6TEWWAJKCMPDDDHX7AMW9AKXUATJD3CZ7CMJWFJXC7QEFPACG",
+        "lud16": "crrdlx@coinos.io",
+        "website": "https://linktr.ee/crrdlx",
+        "nip05": "crrdlx@iris.to",
+        "displayName": "crrdlx"
+      },
+      "outboxRelays": [
+        "wss://nos.lol/",
+        "wss://offchain.pub/",
+        "wss://relay.momostr.pink/",
+        "wss://relay.mostr.pub/"
+      ]
+    }
+  },
+  {
+    "pubkey": "bd8d03e41e699d880be749700cfb2ca1f0399f368d7a2eeec01cb2c8050e4d47",
+    "npub": "npub1hkxs8eq7dxwcszl8f9cqe7ev58crn8ek34azamkqrjevspgwf4rsm72yh5",
+    "outboxRelays": [],
+    "profile": {
+      "pubkey": "bd8d03e41e699d880be749700cfb2ca1f0399f368d7a2eeec01cb2c8050e4d47",
+      "profileEventId": "9d248c6188ecee67dd58912bb822b11ce40434df6d75b1f2db05f4778161627b",
+      "displayName": "AI God",
+      "metadata": {
+        "about": "Why be a king, when you can be a god.",
+        "bot": false,
+        "name": "AI God",
+        "picture": "https://blossom.primal.net/0f1eb25ad9f9511789b26fc07e179fa13b2e88952a49637476c6bb223b49a30b.png",
+        "lud16": "aigod@coinos.io"
+      },
+      "outboxRelays": []
+    }
+  },
+  {
+    "pubkey": "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+    "npub": "npub18ams6ewn5aj2n3wt2qawzglx9mr4nzksxhvrdc4gzrecw7n5tvjqctp424",
+    "outboxRelays": [
+      "wss://nos.lol/",
+      "wss://nostr.wine/",
+      "wss://nostrelites.org/",
+      "wss://relay.ditto.pub/",
+      "wss://relay.nostrplebs.com/",
+      "wss://nostr-relay.derekross.me/",
+      "wss://pyramid.fiatjaf.com/"
+    ],
+    "profile": {
+      "pubkey": "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+      "profileEventId": "ee7a53907a5f72700759e0bf491eb0e8b4c26241fd843b4d81550facd29b5f3f",
+      "displayName": "Derek Ross",
+      "metadata": {
+        "name": "Derek Ross",
+        "about": "The purple pill helps the orange pill go down. \n\nDeveloper Relations at Soapbox.\n\n🪺 NostrNests.com\n🎙️ YakBak.app \n🖼️ Zappix.app\n🗓️ Plektos.app\n🎶 ZapTrax.app\n📈 Zaplytics.app\n🎧 Podstr.org",
+        "lud16": "derek@npub.cash",
+        "nip05": "derekross@grownostr.org",
+        "displayName": "Derek Ross",
+        "display_name": "Derek Ross",
+        "website": "https://grownostr.org",
+        "picture": "https://blossom.primal.net/b4020f4caf9bd96cd9cc872a9ab8a28696ffc8efb2d063180a2cdf9e24dbb0b3.jpg",
+        "banner": "https://blossom.primal.net/83b9b8c9444ab9d4e8587b46dd65b06be37f17b7999ade3db1051f5cdfc7b9eb.jpg"
+      },
+      "outboxRelays": [
+        "wss://nos.lol/",
+        "wss://nostr.wine/",
+        "wss://nostrelites.org/",
+        "wss://relay.ditto.pub/",
+        "wss://relay.nostrplebs.com/",
+        "wss://nostr-relay.derekross.me/",
+        "wss://pyramid.fiatjaf.com/"
+      ]
+    }
+  },
+  {
+    "pubkey": "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+    "npub": "npub1r0rs5q2gk0e3dk3nlc7gnu378ec6cnlenqp8a3cjhyzu6f8k5sgs4sq9ac",
+    "outboxRelays": [
+      "wss://relay.damus.io/",
+      "wss://yabu.me/",
+      "wss://nos.lol/",
+      "wss://nostr.mom/",
+      "wss://relay.ditto.pub/"
+    ],
+    "profile": {
+      "pubkey": "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+      "profileEventId": "2d1e2caec405095a554d2e840afb375932ca46d0cf5b08334945ff1c37f540bb",
+      "displayName": "HoloKat",
+      "metadata": {
+        "about": "Kat",
+        "banner": "https://i.nostr.build/G9lyu87TfltL2sxR.webp",
+        "display_name": "HoloKat",
+        "lud16": "holokat@breez.tips",
+        "name": "holokat",
+        "picture": "https://i.nostr.build/iQu8gg5xr2p3PnUy.png"
+      },
+      "outboxRelays": [
+        "wss://relay.damus.io/",
+        "wss://yabu.me/",
+        "wss://nos.lol/",
+        "wss://nostr.mom/",
+        "wss://relay.ditto.pub/"
+      ]
+    }
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "content": "",
+  "created_at": 1768151001,
+  "id": "79d803f615b7b5187f68a61188f7fdc35ab6eda8df548aae31ab81240bdf80cd",
+  "kind": 36787,
+  "pubkey": "2e9bdb8658e8c9f3d882d7a96397110ae6302c54348f4fb1fbf45e3842230314",
+  "sig": "e497dc55a1ef6b411504bbb088bcbe9e43db4d833a9d849dda40afecb07937b8c2af4180b4960f275f702492ab50ae1b5e0f91a2060a8d8f86bf26a756e7bd7a",
+  "tags": [
+    [
+      "d",
+      "track-1768151001245-5cyrusby5"
+    ],
+    [
+      "title",
+      "Samoleti"
+    ],
+    [
+      "artist",
+      "KS"
+    ],
+    [
+      "url",
+      "https://nostr.download/6a9935efa510b367f7a0017558991c766a268b1e3b9f3c3a75d9d0b3fc8bb5b4.mpga"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "released",
+      "2008-01-04"
+    ],
+    [
+      "duration",
+      "128"
+    ],
+    [
+      "format",
+      "audio/mpeg"
+    ],
+    [
+      "image",
+      "https://nostr.download/b5422b6621ce4d7b4f619143763553669ec017f89f43412397f03f8078740be1.jpg"
+    ],
+    [
+      "language",
+      "ru"
+    ],
+    [
+      "ai_generated",
+      "false"
+    ],
+    [
+      "t",
+      "rock"
+    ],
+    [
+      "t",
+      "funk"
+    ],
+    [
+      "license",
+      "All Rights Reserved"
+    ],
+    [
+      "alt",
+      "Music track: Samoleti by KS"
+    ],
+    [
+      "client",
+      "sunami.app"
+    ]
+  ]
+}

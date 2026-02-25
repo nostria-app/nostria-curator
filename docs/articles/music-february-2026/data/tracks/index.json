@@ -1,0 +1,2028 @@
+[
+  {
+    "id": "9aab2ed160321503bdfb3649e36e2962bf9483278e3892a998ae3837fb7530e1",
+    "kind": 36787,
+    "created_at": 1771028835,
+    "pubkey": "28ca019b78b494c25a9da2d645975a8501c7e99b11302e5cbe748ee593fcb2cc",
+    "d": "track-1771028835566-ltj5qzj30",
+    "title": "Alone In Valentine (single)",
+    "hasVideo": false,
+    "mention": "@artist_f43dc6f9ba",
+    "tags": [
+      [
+        "d",
+        "track-1771028835566-ltj5qzj30"
+      ],
+      [
+        "title",
+        "Alone In Valentine (single)"
+      ],
+      [
+        "artist",
+        "JoeMartin"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/7ce0d10111087b43a1cf18e1d4719a4d0bed9616fc6c4c8a89560d49b4b12194.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2026-02-14"
+      ],
+      [
+        "duration",
+        "199"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/9cbf7f1bdeb33864c5fabb0efd78dde0989e4873558733c531fcf15740cc0565.png"
+      ],
+      [
+        "lyrics",
+        "https://blossom.primal.net/1644a8aa8f9f9d4b9b57ea79c6e16dbe71fd1ff13de506d28e7d369f9af32baa"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "country"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "28ca019b78b494c25a9da2d645975a8501c7e99b11302e5cbe748ee593fcb2cc",
+        "wss://relay.primal.net",
+        "1000"
+      ],
+      [
+        "alt",
+        "Music track: Alone In Valentine (single) by JoeMartin"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "The first single release from my new album Alone In Valentine. \n\nWritten by Joe Martin and Steve Anderson\nProduced by Cal Campbell\nMixed by James Wyatt\nMastered by Rogan Kelsey\n\nPhotography by Steve Anderson featuring Amanda Bloom\n\nLyrics:\nIn a beat up Silverado,\nThrough southern Colorado \nShe'll be on the interstate, \n'Til sometime late tomorrow\nAll she's left behind,\nIs their life there in the pines\nTook the pieces of her broken heart\nTo try and build a better life\nAll the words left unsaid\nAll the many miles ahead\nOn some highway far away,\nShe'll find a place to pray\nAnd ask the lord for strength from up on high\nHeaded for tomorrow, in that beat up Silverado\nShe'll find her way to finally say goodbye\nStanding there at night,\nLost in the Marfa lights\nTequila in the evening,\nAlone in Valentine.\nA movie at the Starlight,\nA drive down River Road,\nThe Eagles' \"Desperado,\" playing on the radio.\nAll the words left unsaid,\nAll the many miles ahead\nOn some highway far away,\nShe'll find a place to pray\nAnd ask the lord for strength from up on high\nHeaded for tomorrow, in that beat up Silverado\nShe'll find her way to finally say goodbye\nThose ashes in her hand\nOn the banks of the Rio Grande\nA warm Texas wind,\nTo take him home again\nAcross that Great Divide,\nShe says her last goodbyes \nHer hands on the wheel,\nTears in her eyes...\nIn his beat up Silverado,\nThrough southern Colorado...\n\nCredits:\nWritten by Joe Martin and Steve Anderson\nProduced by Cal Campbell\nMixed by James Wyatt\nMastered by Rogan Kelsey\n\nPhotography by Steve Anderson featuring Amanda Bloom"
+  },
+  {
+    "id": "cf4ef70571560c4c8794cbf54c1199c3c7a586f637c717d0aaf50a7f45eed042",
+    "kind": 36787,
+    "created_at": 1771255604,
+    "pubkey": "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+    "d": "track-1771046366636-rlahaju9g",
+    "title": "Dirt and Sand",
+    "hasVideo": false,
+    "mention": "@artist_94f0319b9c",
+    "tags": [
+      [
+        "d",
+        "track-1771046366636-rlahaju9g"
+      ],
+      [
+        "title",
+        "Dirt and Sand"
+      ],
+      [
+        "url",
+        "https://blossom-01.uid.ovh/1f4ab3f013ee9fb85ab015d29e23d7532ba0aa877fc582f45e4ac55d0253a0dd.wav"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "client",
+        "nostria"
+      ],
+      [
+        "image",
+        "https://blossom-01.uid.ovh/eb3d67df73e7945a1a6fb93bc3a0efe603e5f0f36facdfdd75c17ef8d978f9e7.jpeg"
+      ],
+      [
+        "t",
+        "rock"
+      ],
+      [
+        "t",
+        "alternative"
+      ],
+      [
+        "t",
+        "indie"
+      ],
+      [
+        "p",
+        "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f"
+      ],
+      [
+        "artist",
+        "Strange Love"
+      ],
+      [
+        "album",
+        "Strange Love"
+      ],
+      [
+        "track_number",
+        "1"
+      ],
+      [
+        "released",
+        "2026-02-14"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "zap",
+        "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+        "wss://relay.damus.io",
+        "100"
+      ],
+      [
+        "alt",
+        "Music track: Dirt and Sand by Strange Love"
+      ]
+    ],
+    "content": "License:\nAll Rights Reserved"
+  },
+  {
+    "id": "49bc306a9822e1bfff7b02406aa07fc6019df2711ec51e26b53b0c935799e551",
+    "kind": 36787,
+    "created_at": 1770722821,
+    "pubkey": "50a63cca15b16b60d329b92f628c432c8c12689b40fe9d0495eb836b5f2df637",
+    "d": "rss-track-1770549953346-9a2js4zsz",
+    "title": "Weather Weapons [288Hz]",
+    "hasVideo": true,
+    "mention": "@artist_66f115794f",
+    "tags": [
+      [
+        "d",
+        "rss-track-1770549953346-9a2js4zsz"
+      ],
+      [
+        "title",
+        "Weather Weapons [288Hz]"
+      ],
+      [
+        "artist",
+        "Matt Finlay"
+      ],
+      [
+        "url",
+        "https://phafe.com/wp-content/uploads/rssfeed/music/matt_finlay/government_approved_ep/Matt-Finlay-Government-Approved-432Hz-EP-03-Weather-Weapons-288Hz.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2026-01-11"
+      ],
+      [
+        "duration",
+        "254"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://phafe.com/wp-content/uploads/rssfeed/music/matt_finlay/government_approved_ep/cover-150.jpg"
+      ],
+      [
+        "video",
+        "https://r2a.primal.net/uploads2/1/43/7a/1437a03be6cc86bb23c170a7efa2e2a6430ad63f8b79302c30e8059852677da6.mp4"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "432hz music"
+      ],
+      [
+        "t",
+        "rock"
+      ],
+      [
+        "t",
+        "metal"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "50a63cca15b16b60d329b92f628c432c8c12689b40fe9d0495eb836b5f2df637",
+        "wss://relay.primal.net",
+        "950"
+      ],
+      [
+        "zap",
+        "605343ab36f8677a0d35f7e387927bdaff488a92b3d727fb2a43cf7a9573c8d4",
+        "wss://relay.primal.net",
+        "50"
+      ],
+      [
+        "alt",
+        "Music track: Weather Weapons [288Hz] by Matt Finlay"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "Recorded in 432Hz base tuning.\nThis track contains a solfeggio frequency tone of 288Hz.\n\nFrom Government Approved [432Hz] (EP), released October 3, 2025\nMusic written/recorded/performed by Matt Finlay\nMixed by Matt Finlay & Number Six at TNP Productions LLC\nMastered at TNP Productions LLC - anartistcollective.com/creatives-directory/media-arts/tnp-productions-llc\n\nAlbum artwork by Shelly Omstead at Anartist Collective - anartistcollective.com\n\n(c) 2025 Matt Finlay. All rights reserved."
+  },
+  {
+    "id": "5a3720e0cf97bcb75cbd5a7d297aed8686bf67ee3326dfeb1bb2b98d842a89dd",
+    "kind": 36787,
+    "created_at": 1767370948,
+    "pubkey": "324a42ebc18a5d5c435941e415d6ed1e409f76a2ac058bcf2f1572e70603f40e",
+    "d": "1767370948684-80tzfdj",
+    "title": "Minden alma",
+    "hasVideo": false,
+    "mention": "@artist_7e77ed71e9",
+    "tags": [
+      [
+        "d",
+        "1767370948684-80tzfdj"
+      ],
+      [
+        "title",
+        "Minden alma"
+      ],
+      [
+        "url",
+        "https://mibo.eu.nostria.app/70b4685f459c227aa16a1b64ed7fddf0e071944e1330da29334397da89c5b58d.mpga"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "client",
+        "nostria"
+      ],
+      [
+        "image",
+        "https://mibo.eu.nostria.app/65f7b74bc9d1d46fea8bee1eab6b2e12c5937edf6161e50383b0599008a80bbd.webp"
+      ],
+      [
+        "t",
+        "indie"
+      ],
+      [
+        "p",
+        "324a42ebc18a5d5c435941e415d6ed1e409f76a2ac058bcf2f1572e70603f40e"
+      ],
+      [
+        "artist",
+        "Reni & Boka"
+      ],
+      [
+        "album",
+        "Minden alma (Single)"
+      ],
+      [
+        "released",
+        "2023-06-01"
+      ],
+      [
+        "language",
+        "hu"
+      ],
+      [
+        "t",
+        "singer-songwriter"
+      ],
+      [
+        "t",
+        "hungary"
+      ],
+      [
+        "zap",
+        "c3177358f5ed45bd8812c44b5cedd6d365a0eac557f1075090958d56fe5b43cd",
+        "wss://relay.damus.io",
+        "50"
+      ],
+      [
+        "zap",
+        "95b17b590253c39e6bfd7f2429f40d540b7ef843610c3dadb697db22df536bbb",
+        "wss://relay.damus.io",
+        "50"
+      ],
+      [
+        "alt",
+        "Music track: Minden alma by Reni & Boka"
+      ]
+    ],
+    "content": "Lyrics:\nMinden alma álmot rejt\nMinden alma álmot hoz\n\nO sol esquenta meu peito \nO sol que vai e vem \n\nLélegzem\nLélegzem\n\n\nCredits:\nReni Iszlai & Boka Mark Szasz\n\nLicense:\nAll Rights Reserved"
+  },
+  {
+    "id": "6d548a66ad92247bd8cea4b6800bf6ee394a8f85a97c23dc918719945a0987bf",
+    "kind": 36787,
+    "created_at": 1767984072,
+    "pubkey": "28ca019b78b494c25a9da2d645975a8501c7e99b11302e5cbe748ee593fcb2cc",
+    "d": "track-1767984072386-ra3wgn4p1",
+    "title": "Crocodile Tears",
+    "hasVideo": false,
+    "mention": "@artist_f43dc6f9ba",
+    "tags": [
+      [
+        "d",
+        "track-1767984072386-ra3wgn4p1"
+      ],
+      [
+        "title",
+        "Crocodile Tears"
+      ],
+      [
+        "artist",
+        "Joe Martin"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/c50211be33374d24eaef229e9a2e64a9846e51c622900098704bdcfd9eaabeec.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2026-01-09"
+      ],
+      [
+        "duration",
+        "197"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/a2478873dbbeeb1b02175f7e06edfd4604c144a68f785b641e098eec1d691d5d.jpg"
+      ],
+      [
+        "t",
+        "country"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "28ca019b78b494c25a9da2d645975a8501c7e99b11302e5cbe748ee593fcb2cc",
+        "wss://relay.primal.net",
+        "950"
+      ],
+      [
+        "zap",
+        "605343ab36f8677a0d35f7e387927bdaff488a92b3d727fb2a43cf7a9573c8d4",
+        "wss://relay.damus.io",
+        "50"
+      ],
+      [
+        "alt",
+        "Music track: Crocodile Tears by Joe Martin"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "Single from my album Empty Passenger Seat\n\nLyrics:\nWell I don’t need, too much in a woman\nJust someone who cares to love me like they should do\nOh I need her in my arms, instead I find myself alone\nAnd lately I’ve been talking to her answer phone\n\nOh her high maintenance keeps wearing me down\nAnd her lies, about who she’s seeing around this town\nCauses me to wonder why, I ain’t already said goodbye\nAnd keep falling for those crocodile tears she cries\n\nWell sometimes, I think I got to be crazy\nFor putting up with the shit that she does daily\nOh she’ll lecture me on how to live my life\nThen stab me with that - moral high ground - knife\nTo watch me bleed with a hypercritical smile\n\nOh her high maintenance keeps wearing me down\nAnd her lies, about who she’s seeing around this town\nCauses me to wonder why, I ain’t already said goodbye\nAnd keep falling for those crocodile tears she cries\n\nLet me tell you something baby\nI standing for the way you been treating me lately\n\nOh her eyes, are staring into someone else's now\nAnd she tries to deny it when I ask her, oh I don’t know how\nI haven’t seen the light, and already said goodnight\nAnd keep falling for those crocodile tears she cries\nAnd keep falling for those crocodile tears she cries\n\nCredits:\nWritten by Joe Martin, mixed by Steve Wright. Drums - Dan Wiebe, Bass - Mark Lewis, Guitar and pedal steel - Chris Hillman"
+  },
+  {
+    "id": "607d87ed0d7960bed46215b099f74a4d5f64302ff0b5ee398c3e4ce53131384a",
+    "kind": 36787,
+    "created_at": 1770515552,
+    "pubkey": "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+    "d": "track-1770515552439-pw1t9s0up",
+    "title": "OVERTHINKING",
+    "hasVideo": false,
+    "mention": "@artist_d15aa0ceac",
+    "tags": [
+      [
+        "d",
+        "track-1770515552439-pw1t9s0up"
+      ],
+      [
+        "title",
+        "OVERTHINKING"
+      ],
+      [
+        "artist",
+        "Iggy Golo"
+      ],
+      [
+        "url",
+        "https://npub1fr5hvptm7t83xvczqd2mt5jrlrwcz0cexpgarjcygyuffar2e3psy8kc69.blossom.band/7837f77cde2f77ae07cb9490262a53fc294a434bda079cbac00ed979dfb8c7b6.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2025-04-08"
+      ],
+      [
+        "duration",
+        "180"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://npub1fr5hvptm7t83xvczqd2mt5jrlrwcz0cexpgarjcygyuffar2e3psy8kc69.blossom.band/fd201c51ea85d39e760b9a1de08a4eedc8a023087b63ac00d07c7b38ae030466.jpg"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "hip hop"
+      ],
+      [
+        "t",
+        "trap"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+        "wss://relay.primal.net",
+        "1000"
+      ],
+      [
+        "alt",
+        "Music track: OVERTHINKING by Iggy Golo"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "Too many thoughts"
+  },
+  {
+    "id": "45c1ecc92caef750ee09799d466da7deec8a7a1456828b119525a4fd808bbe68",
+    "kind": 36787,
+    "created_at": 1770414739,
+    "pubkey": "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+    "d": "rss-track-1767732754788-8jba6ztbr",
+    "title": "Wednesday",
+    "hasVideo": false,
+    "mention": "@artist_d15aa0ceac",
+    "tags": [
+      [
+        "d",
+        "rss-track-1767732754788-8jba6ztbr"
+      ],
+      [
+        "title",
+        "Wednesday"
+      ],
+      [
+        "artist",
+        "Iggy Golo"
+      ],
+      [
+        "url",
+        "https://nostr.download/c6a53b3aca3e9d5749efd7d0f8ac34ebb4ea3f63a0ba7c57ac6a6e7fde1bca1f.mpga"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2025-09-09"
+      ],
+      [
+        "duration",
+        "130"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://nostr.download/6612c2f2afdcd74a8c96cbec91a75d72d6c161792f6ccb52b60a6a3838137dc8.png"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "j-pop"
+      ],
+      [
+        "t",
+        "hyperpop"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+        "wss://relay.primal.net",
+        "1000"
+      ],
+      [
+        "alt",
+        "Music track: Wednesday by Iggy Golo"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": ""
+  },
+  {
+    "id": "05e84d55df4f36e290117c219a7fcd6c348334fb7af11fa0a5f99d2e7ea44e60",
+    "kind": 36787,
+    "created_at": 1770148598,
+    "pubkey": "9cd85dd6672ecfbc9bd070d39cd8e2a20e760e3e478ee919b76aae56cc3e39b3",
+    "d": "rss-track-1770148306052-8nxy27ruy",
+    "title": "Universe",
+    "hasVideo": false,
+    "mention": "@artist_63fdf9502b",
+    "tags": [
+      [
+        "d",
+        "rss-track-1770148306052-8nxy27ruy"
+      ],
+      [
+        "title",
+        "Universe"
+      ],
+      [
+        "artist",
+        "Haleen"
+      ],
+      [
+        "url",
+        "https://feeds.fountain.fm/PNG6BAQYssnqtFOfpkOh/items/TUPhT9lrElvVXfKvds9O/files/AUDIO---DEFAULT---466d54c4-116e-4b8f-bf6d-444e7ccdc944.wav"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2026-02-03"
+      ],
+      [
+        "duration",
+        "240"
+      ],
+      [
+        "format",
+        "audio/wav"
+      ],
+      [
+        "image",
+        "https://feeds.fountain.fm/PNG6BAQYssnqtFOfpkOh/files/COVER_ART---DEFAULT---7f776243-fca3-4348-b335-dc93a27a5fb2.jpg"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "electronic"
+      ],
+      [
+        "t",
+        "medicine music"
+      ],
+      [
+        "t",
+        "432hz music"
+      ],
+      [
+        "t",
+        "idm"
+      ],
+      [
+        "t",
+        "healing music"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "9cd85dd6672ecfbc9bd070d39cd8e2a20e760e3e478ee919b76aae56cc3e39b3",
+        "wss://relay.primal.net",
+        "1000"
+      ],
+      [
+        "alt",
+        "Music track: Universe by Haleen"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "An electro track with beautiful vocal harmonies to awaken the soul .\n\nLyrics:\nAcknowledging the good that is already in your life\nIs the foundation for all abundance\nFor all abundance\n\nBlossoming in awareness\nEmbodying the laws of nature\nMan know thyself\nAnd you will know the universe\nThe universe\n\nBy replacing fear of the unknown\nTake a moment of stillness\nAnd allow this moment to be\nWithout imposing stories\nStories\n\nCredits:\nComposer - Hans De Bruck - Kathleen Merckx\nLyrics - Kathleen Merckx - Hans De Bruck\n\nall rights reserved"
+  },
+  {
+    "id": "3bb0cd15bd16247b38a062ba3498c6025105b909650d8b00335abe9616af8a8d",
+    "kind": 36787,
+    "created_at": 1769962981,
+    "pubkey": "13598661e652762d2d3d668e3a37dc205e736f584eb9ce0527a7f259daae68e9",
+    "d": "track-1769962981574-peo38f6c9",
+    "title": "Intro (Lost in Space)",
+    "hasVideo": false,
+    "mention": "@artist_a6fb973b25",
+    "tags": [
+      [
+        "d",
+        "track-1769962981574-peo38f6c9"
+      ],
+      [
+        "title",
+        "Intro (Lost in Space)"
+      ],
+      [
+        "artist",
+        "electric jidam"
+      ],
+      [
+        "url",
+        "https://electricjidam.de/wp-content/uploads/2024/04/01-Electric-Jidam-Intro.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2024-03-18"
+      ],
+      [
+        "duration",
+        "216"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://electricjidam.de/nostr/ej_cover_mp3.jpeg"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "electronic"
+      ],
+      [
+        "t",
+        "jazz"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "13598661e652762d2d3d668e3a37dc205e736f584eb9ce0527a7f259daae68e9",
+        "wss://relay.primal.net",
+        "900"
+      ],
+      [
+        "zap",
+        "605343ab36f8677a0d35f7e387927bdaff488a92b3d727fb2a43cf7a9573c8d4",
+        "wss://relay.primal.net",
+        "100"
+      ],
+      [
+        "alt",
+        "Music track: Intro (Lost in Space) by electric jidam"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "Electronic Fusion"
+  },
+  {
+    "id": "55ab250f841c8350f97c90f076f9338d1b80829a8ba70ca0d9207a0247fb379d",
+    "kind": 36787,
+    "created_at": 1769923703,
+    "pubkey": "9ba1ad878055e31fa882a9c3bac5bb114d8d55d4ad5ea6ce49c2a4d542fea785",
+    "d": "track-1769923703074-n7jumd7rm",
+    "title": "When the Sky Melts into the Sea",
+    "hasVideo": false,
+    "mention": "@artist_6aba1f35b6",
+    "tags": [
+      [
+        "d",
+        "track-1769923703074-n7jumd7rm"
+      ],
+      [
+        "title",
+        "When the Sky Melts into the Sea"
+      ],
+      [
+        "artist",
+        "Peter Paulsen"
+      ],
+      [
+        "url",
+        "https://www.peterpaulsen.net/wp-content/uploads/2025/08/05_when_the_sky_melts_into_the_sea.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2011-10-10"
+      ],
+      [
+        "duration",
+        "600"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://www.peterpaulsen.net/nostr/PP_Inner_Space_cover_mp3.jpeg"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "jazz"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "9ba1ad878055e31fa882a9c3bac5bb114d8d55d4ad5ea6ce49c2a4d542fea785",
+        "wss://relay.primal.net",
+        "900"
+      ],
+      [
+        "zap",
+        "605343ab36f8677a0d35f7e387927bdaff488a92b3d727fb2a43cf7a9573c8d4",
+        "wss://relay.primal.net",
+        "100"
+      ],
+      [
+        "alt",
+        "Music track: When the Sky Melts into the Sea by Peter Paulsen"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "Ambient bass guitar soundscapes and improvisations."
+  },
+  {
+    "id": "b0a8bbd74c1f00f406495d2eda2d7908e4898e4c28aa086e6e46f3e08cbc513a",
+    "kind": 36787,
+    "created_at": 1769898670,
+    "pubkey": "17e2889fba01021d048a13fd0ba108ad31c38326295460c21e69c43fa8fbe515",
+    "d": "1769898670612-8aiobsm",
+    "title": "Chapter Fifteen : The Last Days of Loki",
+    "hasVideo": false,
+    "mention": "@artist_baf14c8c63",
+    "tags": [
+      [
+        "d",
+        "1769898670612-8aiobsm"
+      ],
+      [
+        "title",
+        "Chapter Fifteen : The Last Days of Loki"
+      ],
+      [
+        "url",
+        "https://mibo.eu.nostria.app/5e693276cfaef2f38bc8cd5667e4b660c2a51d14eac36fb0fe1b35834775a399.mpga"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "client",
+        "nostria"
+      ],
+      [
+        "image",
+        "https://mibo.eu.nostria.app/f620e5aab4468d66856488800ac11f1f9fede31282e0ea1867af1fc844f9c238.webp"
+      ],
+      [
+        "t",
+        "folk"
+      ],
+      [
+        "artist",
+        "sondreb"
+      ],
+      [
+        "ai_generated",
+        "true"
+      ],
+      [
+        "album",
+        "The Sixteen Chapters of Norse Mythology"
+      ],
+      [
+        "track_number",
+        "16"
+      ],
+      [
+        "released",
+        "2026-01-31"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "zap",
+        "17e2889fba01021d048a13fd0ba108ad31c38326295460c21e69c43fa8fbe515",
+        "wss://relay.damus.io",
+        "100"
+      ],
+      [
+        "alt",
+        "Music track: Chapter Fifteen : The Last Days of Loki by sondreb"
+      ]
+    ],
+    "content": "Lyrics:\n[Intro]\nAsh on the sky\nRope on the wind\nNames in the dark\nStart to tighten\n\n[Verse 1]\nWord spreads\nSlow and cold\nEvery hall\nEvery home\n“Have you heard what he’s done?\nHe has broken the bones of the world”\n\nBlood on the feast\nLaughter that cut too deep\nHe played with the threads\nPulled doubt from the mouths of the brave\n\nThey count the debts he stacked\nEvery trick\nEvery pact\nA joke that cracked the shield\nNow the cracks run under the earth\n\n[Pre-Chorus]\nYou can laugh at a king\nYou can spit in the storm\nBut once you stab at the heart of the sky\nThey come for you in full form\n\n[Chorus]\nThese are the last days of Loki\nRun\nLittle flame\nRun\nEvery lie you lit is glowing\nAnd it’s pointing like a blade at your blood\nThese are the last days of Loki\nHear the hunt in the ground\nWhen the laughter dies to choking\nThey will drag you where the sun can’t be found\n\n[Verse 2]\nHe runs where the rivers twist\nFeet cut\nBreath in fists\nWife and child in the shadows\nTold “Hide\nI’ll find you again”\n\nBut the woods all know his gait\nEven stone remembers his face\nEvery root\nEvery raven eye\nWhispers\n“They’re coming. They’re close.”\n\nThe Aesir walk like war\nStep by step to his door\nNo more riddles\nNo masks\nJust judgment under the clouds\n\n[Pre-Chorus]\nYou can dance on a blade\nYou can slip every chain\nBut once your tricks taste holy blood\nEven chaos gets chained\n\n[Chorus]\nThese are the last days of Loki\nRun\nLittle flame\nRun\nEvery lie you lit is glowing\nAnd it’s pointing like a blade at your blood\nThese are the last days of Loki\nHear the hunt in the ground\nWhen the laughter dies to choking\nThey will drag you where the sun can’t be found\n\n[Bridge]\n[Music drops\nWhispered vocal over grinding build]\nThey took the sons he sired\nTurned brother against brother\nGuts twisted into iron\nFor the father of every false cover\n\nStone for a bed\nStone for his wrists\nStone for a ceiling\nToo low to resist\n\nVenom in a living thread\nDripping slow from a jaw of dread\nEvery drop\nA burned-out star\nEvery scream\nOne step toward war\n\n(Sigyn waits… hands shaking)\n(Bowl raised… arms breaking)\nWhen her strength gives out\nWhen it spills\nHis voice is a crack in the hills\n\n[Chorus]\nThese are the last days of Loki\nNo more roads to run\nEvery curse he spoke is folding\nAnd it’s stitching him shut in the dark\nThese are the last days of Loki\nHear his name in the ground\nWhen the poison carves his story\nEvery shudder is a tremor of doom coming down\n\n[Outro]\nRemember this pain\nRemember this cave\nWhen the world starts to shiver\nAnd the wolves slip the chains\n\n(He is waiting)\n(He is waiting)\nLast days of Loki\nAre only\nThe first taste\nOf the end\n\nLicense:\nCC0 1.0\nhttps://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "d99b09af2c7fe3eb87c1cbefcad82cf6ba5eef837233adcdedf4313995816e6b",
+    "kind": 36787,
+    "created_at": 1769125562,
+    "pubkey": "28ca019b78b494c25a9da2d645975a8501c7e99b11302e5cbe748ee593fcb2cc",
+    "d": "track-1769125247439-uqkeugpzy",
+    "title": "Empty Passenger Seat",
+    "hasVideo": true,
+    "mention": "@artist_f43dc6f9ba",
+    "tags": [
+      [
+        "d",
+        "track-1769125247439-uqkeugpzy"
+      ],
+      [
+        "title",
+        "Empty Passenger Seat"
+      ],
+      [
+        "artist",
+        "JoeMartin"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/541bab1381e5adb875facd7c5594ea1b0c8fc3bfae323be2e205ab31588d81a3.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2023-05-01"
+      ],
+      [
+        "duration",
+        "222"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/25367ac97a919ab56da36fe8a9aac34b6959390d2c461e81608ae297f249bf63.jpg"
+      ],
+      [
+        "video",
+        "https://blossom.primal.net/7ff87efcaa3a9a3ebcf76a3bbdeb0a55c8dbd05963a0184987821c023216cc03.mov"
+      ],
+      [
+        "lyrics",
+        "https://blossom.primal.net/951c0bfc4421972475c6c94f1c7de8a4a1ecadb96321e85d6ee1ee3a853789cd"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "country"
+      ],
+      [
+        "t",
+        "folk"
+      ],
+      [
+        "t",
+        "indie"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "28ca019b78b494c25a9da2d645975a8501c7e99b11302e5cbe748ee593fcb2cc",
+        "wss://relay.primal.net",
+        "950"
+      ],
+      [
+        "zap",
+        "605343ab36f8677a0d35f7e387927bdaff488a92b3d727fb2a43cf7a9573c8d4",
+        "wss://relay.primal.net",
+        "50"
+      ],
+      [
+        "alt",
+        "Music track: Empty Passenger Seat by JoeMartin"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "Title track of my first album Empty Passenger Seat\n\nLyrics:\nBig city lights are shining down on me\nDiﬀerent ones than yesterday\nAnd although they don't spell my name\nI know that they will someday\nDrinking all the backstage beer\nTrying to drown out your tears\nMan it's been a long time since I've been home\nGod it feels like years\nForgive me for my confusion\nI got sold a rock and roll delusion\nNow it's taking its toll and it's catching up with me\nGot my foot to the floor going nowhere fast\nDon't see how I can make this last\nWas convinced, that my life would be complete\nBeside an empty passenger seat\nBeside an empty passenger seat\nAnother service stop\nOh another train to hop\nAnother corner street busker singing in the rain\nRestringing my J45\nStage side nerves make me feel alive\nBut I think of you\nTo try and keep me sane\nOh forgive me for my confusion\nI got sold a rock and roll delusion\nNow it's taking its toll and it's catching up with me\nGot my foot to the floor going nowhere fast\nDon't see how I can make this last\nWas convinced, that my life would be complete\nBeside an empty passenger seat\nBeside an empty passenger seat\nForgive me for my confusion\nI got sold a rock and roll delusion\nNow it's taking its toll and it's catching up with me\nGot my foot to the floor going nowhere fast\nDon't see how I can make this last\nNow I know, that my life won't be complete\nBeside an empty passenger seat\nBeside an empty passenger seat\nBeside an empty passenger seat\nBeside an empty passenger seat\n\nCredits:\nWritten by Joe Martin, mixed and mastered by Steve Wright. \nVocals and acoustic guitar - Joe Martin\nDrums - Dan Wiebe\nBass - Mark Lewis\nElectric guitar - Chris Hillman\n\nArtwork - Jonny Davies"
+  },
+  {
+    "id": "926e031f30654b0d79ccf43b67ae11c669fcd11366ed89c7584f52de3fe6ea22",
+    "kind": 36787,
+    "created_at": 1768790659,
+    "pubkey": "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+    "d": "1767850221039-dmdvl6j",
+    "title": "To Be Intended",
+    "hasVideo": false,
+    "mention": "@artist_94f0319b9c",
+    "tags": [
+      [
+        "d",
+        "1767850221039-dmdvl6j"
+      ],
+      [
+        "title",
+        "To Be Intended"
+      ],
+      [
+        "artist",
+        "Strange Love"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/54d59c78615619ba8e1f99840f6ae51be1a7899606028ff5bae21dc6bb393f49.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "duration",
+        "366"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://cdn.satellite.earth/16439f488cfccd6b5024572f31ca85e9262e9abf711528551178db4b175e4478.png"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "rock"
+      ],
+      [
+        "t",
+        "metal"
+      ],
+      [
+        "t",
+        "alternative"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "zap",
+        "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+        "wss://relay.damus.io",
+        "1000"
+      ],
+      [
+        "alt",
+        "Music track: To Be Intended by Strange Love"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": "License:\nAll Rights Reserved"
+  },
+  {
+    "id": "a165329cdf0129e1bae09ad8a30f467f4f41b474482349d61ccab0ac16046f77",
+    "kind": 36787,
+    "created_at": 1768231561,
+    "pubkey": "0c5f4fed28326d08b7be6c920070a5c12aa862ea3a75a39502e249916362ad11",
+    "d": "7b311252-618a-4271-bd97-c28e9f25ea4f",
+    "title": "Eagle Song",
+    "hasVideo": false,
+    "mention": "@artist_2fce5da069",
+    "tags": [
+      [
+        "d",
+        "7b311252-618a-4271-bd97-c28e9f25ea4f"
+      ],
+      [
+        "title",
+        "Eagle Song"
+      ],
+      [
+        "url",
+        "https://mmmusic.show/msp/Pickle_Popsicle_EP/B_05_Eagle_Song.mp3"
+      ],
+      [
+        "artist",
+        "Øystein Berge"
+      ],
+      [
+        "album",
+        "Pickle Popsicle EP"
+      ],
+      [
+        "track_number",
+        "5"
+      ],
+      [
+        "client",
+        "MSP 2.0"
+      ],
+      [
+        "alt",
+        "Music track: Eagle Song by Øystein Berge"
+      ],
+      [
+        "image",
+        "https://mmmusic.show/msp/Pickle_Popsicle_EP/Homegrown_back_cover.png"
+      ],
+      [
+        "released",
+        "01/12/2026"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "zap",
+        "wintersanctuary887079@getalby.com",
+        "100"
+      ]
+    ],
+    "content": "A song from a earlier Value4Value/DeMu release called Jesse EP."
+  },
+  {
+    "id": "79d803f615b7b5187f68a61188f7fdc35ab6eda8df548aae31ab81240bdf80cd",
+    "kind": 36787,
+    "created_at": 1768151001,
+    "pubkey": "2e9bdb8658e8c9f3d882d7a96397110ae6302c54348f4fb1fbf45e3842230314",
+    "d": "track-1768151001245-5cyrusby5",
+    "title": "Samoleti",
+    "hasVideo": false,
+    "mention": "@artist_5c0051b0c5",
+    "tags": [
+      [
+        "d",
+        "track-1768151001245-5cyrusby5"
+      ],
+      [
+        "title",
+        "Samoleti"
+      ],
+      [
+        "artist",
+        "KS"
+      ],
+      [
+        "url",
+        "https://nostr.download/6a9935efa510b367f7a0017558991c766a268b1e3b9f3c3a75d9d0b3fc8bb5b4.mpga"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "released",
+        "2008-01-04"
+      ],
+      [
+        "duration",
+        "128"
+      ],
+      [
+        "format",
+        "audio/mpeg"
+      ],
+      [
+        "image",
+        "https://nostr.download/b5422b6621ce4d7b4f619143763553669ec017f89f43412397f03f8078740be1.jpg"
+      ],
+      [
+        "language",
+        "ru"
+      ],
+      [
+        "ai_generated",
+        "false"
+      ],
+      [
+        "t",
+        "rock"
+      ],
+      [
+        "t",
+        "funk"
+      ],
+      [
+        "license",
+        "All Rights Reserved"
+      ],
+      [
+        "alt",
+        "Music track: Samoleti by KS"
+      ],
+      [
+        "client",
+        "sunami.app"
+      ]
+    ],
+    "content": ""
+  },
+  {
+    "id": "0643e15e3ae8d22c03155b02278078df4ab6426752a06cf3f9128bb5d04140a1",
+    "kind": 36787,
+    "created_at": 1767273426,
+    "pubkey": "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40",
+    "d": "1767090874227-nsbtlgz",
+    "title": "88 Miaumi",
+    "hasVideo": false,
+    "mention": "@artist_9b0019be22",
+    "tags": [
+      [
+        "d",
+        "1767090874227-nsbtlgz"
+      ],
+      [
+        "title",
+        "88 Miaumi"
+      ],
+      [
+        "url",
+        "https://media.basspistol.com/setto.basspistol.com/2025-To%20Setto%20Setto-88%20Miaumi.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "client",
+        "nostria"
+      ],
+      [
+        "image",
+        "https://media.basspistol.com/setto.basspistol.com/2025-To%20Setto%20Setto-88%20Miaumi.jpg"
+      ],
+      [
+        "t",
+        "trap"
+      ],
+      [
+        "p",
+        "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40"
+      ],
+      [
+        "artist",
+        "徒 Setto セット"
+      ],
+      [
+        "album",
+        "Cannelloni"
+      ],
+      [
+        "track_number",
+        "4"
+      ],
+      [
+        "released",
+        "12/30/2025"
+      ],
+      [
+        "language",
+        "en"
+      ],
+      [
+        "t",
+        "cipherfunk"
+      ],
+      [
+        "t",
+        "cybersoul"
+      ],
+      [
+        "t",
+        "miaumiau"
+      ],
+      [
+        "t",
+        "beat"
+      ],
+      [
+        "t",
+        "instrumental"
+      ],
+      [
+        "zap",
+        "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40",
+        "wss://relay.damus.io",
+        "100"
+      ],
+      [
+        "alt",
+        "Music track: 88 Miaumi by 徒 Setto セット"
+      ]
+    ],
+    "content": "Lyrics:\nEverything hand made by 徒 Setto セット\n\nLicense:\nCC BY-NC-SA 4.0\nhttps://creativecommons.org/licenses/by-nc-sa/4.0/"
+  },
+  {
+    "id": "3a8634d28e8e0dd11c2e9d4d3bab6d5b15ad522991521ede1d5effe39709a971",
+    "kind": 36787,
+    "created_at": 1766774545,
+    "pubkey": "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40",
+    "d": "love-de-ma-life-1766774386047-3",
+    "title": "Love De Ma Life",
+    "hasVideo": false,
+    "mention": "@artist_9b0019be22",
+    "tags": [
+      [
+        "d",
+        "love-de-ma-life-1766774386047-3"
+      ],
+      [
+        "title",
+        "Love De Ma Life"
+      ],
+      [
+        "url",
+        "https://media.basspistol.com/sakrecoer.com/the-lonely-hearts-club-techno-band/4-love-de-ma-life.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "t",
+        "electronic"
+      ],
+      [
+        "t",
+        "electro"
+      ],
+      [
+        "t",
+        "disco"
+      ],
+      [
+        "t",
+        "house"
+      ],
+      [
+        "alt",
+        "Music track: Love De Ma Life by Sakrecoer"
+      ],
+      [
+        "image",
+        "https://media.basspistol.com/sakrecoer.com/the-lonely-hearts-club-techno-band/1-fuck-dishit.jpeg"
+      ],
+      [
+        "artist",
+        "Sakrecoer"
+      ],
+      [
+        "p",
+        "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40"
+      ],
+      [
+        "album",
+        "The Lonely Hearts Club Techno Band"
+      ],
+      [
+        "released",
+        "2025-12-26"
+      ],
+      [
+        "client",
+        "nodecast.xyz"
+      ]
+    ],
+    "content": ""
+  },
+  {
+    "id": "2118d0438d8e8fc3853c55af59ad561829f715651e8b08d532a370df7114f317",
+    "kind": 36787,
+    "created_at": 1765800733,
+    "pubkey": "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40",
+    "d": "acid-forest-1765800668290-4",
+    "title": "Acid Forest",
+    "hasVideo": false,
+    "mention": "@artist_9b0019be22",
+    "tags": [
+      [
+        "d",
+        "acid-forest-1765800668290-4"
+      ],
+      [
+        "title",
+        "Acid Forest"
+      ],
+      [
+        "url",
+        "https://media.basspistol.com/sakrecoer.com/the-house-of-set/5-acid-forest.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "t",
+        "electronic"
+      ],
+      [
+        "t",
+        "electro"
+      ],
+      [
+        "t",
+        "house"
+      ],
+      [
+        "t",
+        "idm"
+      ],
+      [
+        "alt",
+        "Music track: Acid Forest by Sakrecoer"
+      ],
+      [
+        "image",
+        "https://shop.basspistol.com/bpist-007/cover_600.jpg"
+      ],
+      [
+        "artist",
+        "Sakrecoer"
+      ],
+      [
+        "p",
+        "3f11abb2e235da2d4dda5d6deb2f123173476a745a3ca56895a1d0f632a42f40"
+      ],
+      [
+        "album",
+        "The House Of Set"
+      ],
+      [
+        "released",
+        "2025-09-30"
+      ],
+      [
+        "client",
+        "nodecast.xyz"
+      ]
+    ],
+    "content": ""
+  },
+  {
+    "id": "eef70ca69f0bbc85df2fb0d419757b394f0c46fc12ccdab697bc53b5d35b63ba",
+    "kind": 36787,
+    "created_at": 1765803228,
+    "pubkey": "34daa8102a541d1dc553e0c36962ed71fa8744ac6cf618f06c764a171c699b49",
+    "d": "mushroom-hunting-v11-1765803228731-4",
+    "title": "Mushroom Hunting v11",
+    "hasVideo": false,
+    "mention": "@artist_52074cfbf4",
+    "tags": [
+      [
+        "d",
+        "mushroom-hunting-v11-1765803228731-4"
+      ],
+      [
+        "title",
+        "Mushroom Hunting v11"
+      ],
+      [
+        "url",
+        "https://media.basspistol.com/eardiod/isocyanates/5-mushroom-hunting-v11.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "alt",
+        "Music track: Mushroom Hunting v11 by eardiod"
+      ],
+      [
+        "image",
+        "https://eardiod.basspistol.com/isocyanates/cover_1280.jpg"
+      ],
+      [
+        "artist",
+        "eardiod"
+      ],
+      [
+        "album",
+        "Isocyanates"
+      ],
+      [
+        "released",
+        "2025-10-03"
+      ],
+      [
+        "client",
+        "nodecast.xyz"
+      ]
+    ],
+    "content": "<p>With Isocyanates, eardiod proposes a 6 track EP of gritty techno. Organic and unexpected, most of eardiod's work is sequenced on the go, by hand on a setup mixing hardware boxes and software synthesizers. Echoing from the remnants of Stockholm's underground scene, this release takes you on a trip to basement raves where lasers pierce the smoke.</p>"
+  },
+  {
+    "id": "035aad8fdf59b20a951aa0b5931dd327580e59f7e71a792f07236ae7df527cba",
+    "kind": 36787,
+    "created_at": 1763692769,
+    "pubkey": "16cb4b38fe9a748b6608f6a596913992dfc50906524c8311cd360bc40222ab94",
+    "d": "memories-1763692769558-0",
+    "title": "Memories",
+    "hasVideo": false,
+    "mention": "@artist_e0b3c9642b",
+    "tags": [
+      [
+        "d",
+        "memories-1763692769558-0"
+      ],
+      [
+        "title",
+        "Memories"
+      ],
+      [
+        "url",
+        "https://op3.dev/e,pg=0b1333b1-f428-58c0-9a6a-3c3fa09aaa2c/media.rssblue.com/podcasts/memories/memories/audio.mooky-memories.mp3"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "alt",
+        "Music track: Memories by MOOKY"
+      ],
+      [
+        "image",
+        "https://media.rssblue.com/podcasts/memories/cover-art.mooky-memories-artwork.jpg"
+      ],
+      [
+        "artist",
+        "MOOKY"
+      ],
+      [
+        "album",
+        "Memories"
+      ],
+      [
+        "released",
+        "2025-11-20"
+      ],
+      [
+        "client",
+        "crush.shakespeare.wtf"
+      ]
+    ],
+    "content": "<p>Memories by MOOKY</p>\n<p>Presented by Cannabis Records and Hash Power Music</p>"
+  },
+  {
+    "id": "fcd33508509d0e004291c46c5a706d26fd9114b9a1d7daec28d5209cf19365e0",
+    "kind": 36787,
+    "created_at": 1763791714,
+    "pubkey": "164600046e625063c31023cdb99f33f396801c233ae1a45c646157a9a50e25dd",
+    "d": "หรับแซงแด้ด-1763791714766",
+    "title": "หรับแซงแด้ด",
+    "hasVideo": false,
+    "mention": "@artist_221d75b8b8",
+    "tags": [
+      [
+        "d",
+        "หรับแซงแด้ด-1763791714766"
+      ],
+      [
+        "title",
+        "หรับแซงแด้ด"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/f2cff82298a4cb412a3f196f1b938d3cfe7cd9b584d59e743d212bbf7cc0a815"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "t",
+        "edm"
+      ],
+      [
+        "t",
+        "trap"
+      ],
+      [
+        "t",
+        "rap"
+      ],
+      [
+        "t",
+        "dance"
+      ],
+      [
+        "t",
+        "dancehall"
+      ],
+      [
+        "t",
+        "electronic"
+      ],
+      [
+        "alt",
+        "Music track: หรับแซงแด้ด by Artist"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/578d0befb7b55a04f5a45da5c5dcf5e4576eb160f1fc9ca0f2a40f53e73d9ffd.jpg"
+      ],
+      [
+        "released",
+        "2025-11-22"
+      ],
+      [
+        "language",
+        "th"
+      ],
+      [
+        "ai-generated",
+        "true"
+      ],
+      [
+        "lyrics",
+        "[verse 1] \nผมหลบโฆษณาอยู่ใน brave\nแต่งตัวแบบคนไม่มี taste\nพอแล้วได้ไหม UPF\nผมไม่ต้องการ INS\nหยุดใช้ก่อนแล้วจ่ายทีหลัง \nยกเลิกแพ็คเกจดูหนัง\nทบทวนสิ่งจำเป็นอีกครั้ง\n(ผมแค่อยากจะเก็บตังค์)\n\n[chorus ]\nเพราะผมไม่อยากจะอยู่ที่เดิม\nbe humble แล้วเริ่มเดิน\nmaybe it’s not my turn\njust yet \nbut I’m gonna learn \nจะว่ายังไงก็เชิญ\n\n[verse 2]\nว่างๆผมฟังแต่ podcast\nวันหยุดไม่ว่าง (ผมไปวัด)\nสีสันชีวิตบน canvas\nผมไม่จำเป็นต้อง move fast\nผมเป็นนักเดินทางไกล\nไม่ได้เปรียบเทียบกับใครๆ\nไม่เป็นไรถ้าคุณไม่เข้าใจ\n(ผมไม่มีเวลาอธิบาย)(yo)\n\n[chorus] \nเพราะผมไม่อยากจะอยู่ที่เดิม\nbe humble แล้วเริ่มเดิน\nmaybe it’s not my turn\njust yet \nbut I’m gonna learn \nจะว่ายังไงก็เชิญ\n\n[bridge]\nผมไม่ค่อยชอบการต้องขออนุญาต\nเชิญคุณ ban ตามสบาย\ni deleted my IG, FB, TikTok\nคุณคงไม่เจอผมในเกมไหน\n\n[chorus ]\nเพราะผมไม่อยากจะอยู่ที่เดิม\nbe humble แล้วเริ่มเดิน\nmaybe it’s not my turn\njust yet \nbut I’m gonna learn \nจะว่ายังไงก็เชิญ\n\nผมคงไม่หยุด มันไม่เหมือนเดิม\nทุกอย่างที่เราต้องเจอ\nI'm gonna make it worth\nthe time\nwe try and we learn\nทุกข์-สุขที่เผชิญ\n\n[outro]\nผมแค่อยู่เงียบๆ\nใช้ชีวิตแบบเรียบๆ\nผมจะออกไปรับแสงแดด\nและ stack sats\n(woooo)"
+      ],
+      [
+        "client",
+        "nodecast.xyz"
+      ]
+    ],
+    "content": "Credits:\nlyrics : zer\nproduced : zer\nmusic generated using suno"
+  },
+  {
+    "id": "11ff2fcc89490fb7317368b36b62e8af9a38ac4a9c3a16256fb876b9a17d8a94",
+    "kind": 36787,
+    "created_at": 1763297382,
+    "pubkey": "005bc4de41cfcb580f71cad6ae8909a976568633a4f6a93c6b7fd5bfef11e1a2",
+    "d": "play-it-for-the-broken-1763297382709",
+    "title": "Play It For The Broken",
+    "hasVideo": false,
+    "mention": "@artist_0aa5d106a6",
+    "tags": [
+      [
+        "d",
+        "play-it-for-the-broken-1763297382709"
+      ],
+      [
+        "title",
+        "Play It For The Broken"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/ec11cc391f115cfbfdef7423122e8c2d4af0ac3721673c8a15c59b7f084dc4ea"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "t",
+        "blues"
+      ],
+      [
+        "t",
+        "lounge"
+      ],
+      [
+        "alt",
+        "Music track: Play It For The Broken by Artist"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/545d656da0a930d50512bc7e56a668b51acbd14e71b78346518b0720084765b3.webp"
+      ],
+      [
+        "released",
+        "2025-11-16"
+      ],
+      [
+        "ai-generated",
+        "true"
+      ],
+      [
+        "client",
+        "crush.shakespeare.wtf"
+      ]
+    ],
+    "content": ""
+  },
+  {
+    "id": "b2bc213aa8da7ff75c16b3f42fad6d567478b708d20a7d3c5404691a5bc22e02",
+    "kind": 36787,
+    "created_at": 1762683235,
+    "pubkey": "005bc4de41cfcb580f71cad6ae8909a976568633a4f6a93c6b7fd5bfef11e1a2",
+    "d": "remember-november-10-1762683235475",
+    "title": "Remember November 10",
+    "hasVideo": false,
+    "mention": "@artist_0aa5d106a6",
+    "tags": [
+      [
+        "d",
+        "remember-november-10-1762683235475"
+      ],
+      [
+        "title",
+        "Remember November 10"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/38d00fb1440f6ef41ce531a48164c235f85312c18fae706606ab6e72bab91f2d"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "t",
+        "folk"
+      ],
+      [
+        "t",
+        "ai-generated"
+      ],
+      [
+        "alt",
+        "Music track: Remember November 10 by Artist"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/fc72094a95f103cae022872bc54bef7796b3425674623a91ef0cf4ddffde9023.png"
+      ],
+      [
+        "released",
+        "2025-11-09"
+      ],
+      [
+        "client",
+        "crush.shakespeare.wtf"
+      ]
+    ],
+    "content": ""
+  },
+  {
+    "id": "af88954786fd1b0bc698babad3b488545c81dde100ab88706c8a71487982f759",
+    "kind": 36787,
+    "created_at": 1763710449,
+    "pubkey": "bd8d03e41e699d880be749700cfb2ca1f0399f368d7a2eeec01cb2c8050e4d47",
+    "d": "superhuman-velocity-1762590529797",
+    "title": "Superhuman Velocity",
+    "hasVideo": false,
+    "mention": "@artist_456faf8e42",
+    "tags": [
+      [
+        "d",
+        "superhuman-velocity-1762590529797"
+      ],
+      [
+        "title",
+        "Superhuman Velocity"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/3d848d599abb787f4642c130e668f88278bd301a0f33f9c897712391c441aab6"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "t",
+        "ai-generated"
+      ],
+      [
+        "alt",
+        "Music track: Superhuman Velocity by Karnage"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/c9e687beb4e2275c7fed2006bb1cc776741811a6c81d4c98dea4b63c4fd2b01c.png"
+      ],
+      [
+        "artist",
+        "Karnage"
+      ],
+      [
+        "p",
+        "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411"
+      ],
+      [
+        "released",
+        "2025-11-08"
+      ],
+      [
+        "ai-generated",
+        "true"
+      ],
+      [
+        "zap",
+        "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+        "",
+        "1"
+      ],
+      [
+        "zap",
+        "bd8d03e41e699d880be749700cfb2ca1f0399f368d7a2eeec01cb2c8050e4d47",
+        "",
+        "1"
+      ],
+      [
+        "client",
+        "crushmusic.netlify.app"
+      ]
+    ],
+    "content": ""
+  },
+  {
+    "id": "dea4f791885aad3fb9637c2146356809a4bd72b397444ae3b4c0b93b90cc19f0",
+    "kind": 36787,
+    "created_at": 1762908254,
+    "pubkey": "3f770d65d3a764a9c5cb503ae123e62ec7598ad035d836e2a810f3877a745b24",
+    "d": "free-software-song-1762908254831",
+    "title": "Free Software Song",
+    "hasVideo": false,
+    "mention": "@artist_7531ba9e6b",
+    "tags": [
+      [
+        "d",
+        "free-software-song-1762908254831"
+      ],
+      [
+        "title",
+        "Free Software Song"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/8de19cfba1168712b1d68d46af5a267be68da8a42e83930f81297de2f95dfd9d"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "t",
+        "punk"
+      ],
+      [
+        "alt",
+        "Music track: Free Software Song by Artist"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/fa09e5d15bd2bd495cb3cceee91e9ff773db358d45e7cac0406cee0c497cc5bc.png"
+      ],
+      [
+        "released",
+        "2025-11-12"
+      ],
+      [
+        "ai-generated",
+        "true"
+      ],
+      [
+        "client",
+        "crush.shakespeare.wtf"
+      ]
+    ],
+    "content": "Lyrics:\nJoin us now and share the software;\nYou'll be free, hackers, you'll be free.\nJoin us now and share the software;\nYou'll be free, hackers, you'll be free.\n\nHoarders can get piles of money,\nThat is true, hackers, that is true.\nBut they cannot help their neighbors;\nThat's not good, hackers, that's not good.\n\nWhen we have enough free software\nAt our call, hackers, at our call,\nWe'll kick out those dirty licenses\nEver more, hackers, ever more.\n\nJoin us now and share the software;\nYou'll be free, hackers, you'll be free.\nJoin us now and share the software;\nYou'll be free, hackers, you'll be free.\n\nCredits:\nRichard Stallman"
+  },
+  {
+    "id": "8b89153f986f5ac11ef60ef9b1f40050f1f64c4ff08d86de42994cdcf2d1916f",
+    "kind": 36787,
+    "created_at": 1763706151,
+    "pubkey": "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+    "d": "chasing-light-1762472600421",
+    "title": "Chasing Light",
+    "hasVideo": false,
+    "mention": "@artist_15834aef78",
+    "tags": [
+      [
+        "d",
+        "chasing-light-1762472600421"
+      ],
+      [
+        "title",
+        "Chasing Light"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/b6652408f15c1292238c91b9828dbcae49269280daa6d8f54ce527012c444a20"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "t",
+        "ai-generated"
+      ],
+      [
+        "alt",
+        "Music track: Chasing Light by Dude"
+      ],
+      [
+        "artist",
+        "Dude"
+      ],
+      [
+        "released",
+        "2025-11-21"
+      ],
+      [
+        "ai-generated",
+        "true"
+      ],
+      [
+        "zap_address",
+        "karnage1@getalby.com",
+        "1"
+      ],
+      [
+        "zap_address",
+        "aigod@coinos.io",
+        "1"
+      ],
+      [
+        "zap",
+        "79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
+        "",
+        "1"
+      ],
+      [
+        "zap",
+        "72bdbc57bdd6dfc4e62685051de8041d148c3c68fe42bf301f71aa6cf53e52fb",
+        "",
+        "1"
+      ],
+      [
+        "client",
+        "crush.local-shakespeare.dev"
+      ]
+    ],
+    "content": ""
+  },
+  {
+    "id": "4d258a86b9086c59f957c0d6cbefec6c84a2223fd2decc98b91a88983c1c78e6",
+    "kind": 36787,
+    "created_at": 1762441177,
+    "pubkey": "1bc70a0148b3f316da33fe3c89f23e3e71ac4ff998027ec712b905cd24f6a411",
+    "d": "malfunction-junction-1762441177720",
+    "title": "Malfunction Junction",
+    "hasVideo": false,
+    "mention": "@artist_15834aef78",
+    "tags": [
+      [
+        "d",
+        "malfunction-junction-1762441177720"
+      ],
+      [
+        "title",
+        "Malfunction Junction"
+      ],
+      [
+        "url",
+        "https://blossom.primal.net/4cb338dc8a54d73bdcb4f883512bdc450835d3742347e057642963bdf20f2ae8"
+      ],
+      [
+        "t",
+        "music"
+      ],
+      [
+        "alt",
+        "Music track: Malfunction Junction by Artist"
+      ],
+      [
+        "image",
+        "https://blossom.primal.net/9eab1f93611f7df48a96116aef884a308e9e72adfb24c81d4fc3e19f436a5883.png"
+      ],
+      [
+        "ai-generated",
+        "true"
+      ],
+      [
+        "client",
+        "crush.shakespeare.wtf"
+      ]
+    ],
+    "content": "Lyrics:\n[Verse]\nCity sleeps sound\nSirens scream now\nI wish I could sleep\nI wish I knew how\n\n[Prechorus]\nMy head is a mess\nA glorious stress\n\n[Chorus]\nBomp bomp bomp\nI think I broke something\nBomp bomp bomp\nMalfunction Junction\n\n[Verse 2]\nGears grind slow\nNo place to go\nBut I gotta move\nProve I'm still in the groove\n\n[Prechorus]\nMy head is a mess\nA glorious stress\n\n[Chorus]\nBomp bomp bomp\nI think I broke something\nBomp bomp bomp\nMalfunction Junction"
+  }
+]

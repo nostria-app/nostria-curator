@@ -1,0 +1,50 @@
+{
+  "content": "<p>With Isocyanates, eardiod proposes a 6 track EP of gritty techno. Organic and unexpected, most of eardiod's work is sequenced on the go, by hand on a setup mixing hardware boxes and software synthesizers. Echoing from the remnants of Stockholm's underground scene, this release takes you on a trip to basement raves where lasers pierce the smoke.</p>",
+  "created_at": 1765803228,
+  "id": "eef70ca69f0bbc85df2fb0d419757b394f0c46fc12ccdab697bc53b5d35b63ba",
+  "kind": 36787,
+  "pubkey": "34daa8102a541d1dc553e0c36962ed71fa8744ac6cf618f06c764a171c699b49",
+  "sig": "afa0b84150f7ec1a49e45979ed3a2ce1e715f538d92fd04374ce9faf5c563836f0818dad9b202c14bb0beb56bc1941c78d4063625b06473c2a68706ce752430a",
+  "tags": [
+    [
+      "d",
+      "mushroom-hunting-v11-1765803228731-4"
+    ],
+    [
+      "title",
+      "Mushroom Hunting v11"
+    ],
+    [
+      "url",
+      "https://media.basspistol.com/eardiod/isocyanates/5-mushroom-hunting-v11.mp3"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "alt",
+      "Music track: Mushroom Hunting v11 by eardiod"
+    ],
+    [
+      "image",
+      "https://eardiod.basspistol.com/isocyanates/cover_1280.jpg"
+    ],
+    [
+      "artist",
+      "eardiod"
+    ],
+    [
+      "album",
+      "Isocyanates"
+    ],
+    [
+      "released",
+      "2025-10-03"
+    ],
+    [
+      "client",
+      "nodecast.xyz"
+    ]
+  ]
+}

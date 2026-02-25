@@ -1,0 +1,76 @@
+{
+  "content": "Too many thoughts",
+  "created_at": 1770515552,
+  "id": "607d87ed0d7960bed46215b099f74a4d5f64302ff0b5ee398c3e4ce53131384a",
+  "kind": 36787,
+  "pubkey": "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+  "sig": "1ed99c5ffb1103213f7a674cbdfe71ad32c4e79e2ef66d47a6136f3b466eb4b22959361fc470bfcdcc98664b1335f63419d04df9308c6c2961f4f9d756314d34",
+  "tags": [
+    [
+      "d",
+      "track-1770515552439-pw1t9s0up"
+    ],
+    [
+      "title",
+      "OVERTHINKING"
+    ],
+    [
+      "artist",
+      "Iggy Golo"
+    ],
+    [
+      "url",
+      "https://npub1fr5hvptm7t83xvczqd2mt5jrlrwcz0cexpgarjcygyuffar2e3psy8kc69.blossom.band/7837f77cde2f77ae07cb9490262a53fc294a434bda079cbac00ed979dfb8c7b6.mp3"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "released",
+      "2025-04-08"
+    ],
+    [
+      "duration",
+      "180"
+    ],
+    [
+      "format",
+      "audio/mpeg"
+    ],
+    [
+      "image",
+      "https://npub1fr5hvptm7t83xvczqd2mt5jrlrwcz0cexpgarjcygyuffar2e3psy8kc69.blossom.band/fd201c51ea85d39e760b9a1de08a4eedc8a023087b63ac00d07c7b38ae030466.jpg"
+    ],
+    [
+      "ai_generated",
+      "false"
+    ],
+    [
+      "t",
+      "hip hop"
+    ],
+    [
+      "t",
+      "trap"
+    ],
+    [
+      "license",
+      "All Rights Reserved"
+    ],
+    [
+      "zap",
+      "48e976057bf2cf1333020355b5d243f8dd813f193051d1cb04413894f46acc43",
+      "wss://relay.primal.net",
+      "1000"
+    ],
+    [
+      "alt",
+      "Music track: OVERTHINKING by Iggy Golo"
+    ],
+    [
+      "client",
+      "sunami.app"
+    ]
+  ]
+}

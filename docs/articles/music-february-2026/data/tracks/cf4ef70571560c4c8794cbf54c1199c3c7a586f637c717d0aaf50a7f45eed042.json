@@ -1,0 +1,80 @@
+{
+  "content": "License:\nAll Rights Reserved",
+  "created_at": 1771255604,
+  "id": "cf4ef70571560c4c8794cbf54c1199c3c7a586f637c717d0aaf50a7f45eed042",
+  "kind": 36787,
+  "pubkey": "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+  "sig": "2c3d025452e47f68b15a0658c4e4f8f5b5cb4c9677d98e5e0bc28b46fa0ca8d7204c25c39aee64b456ce90a8f2bbe7b89b1870e0cf22948456eefd17addbe240",
+  "tags": [
+    [
+      "d",
+      "track-1771046366636-rlahaju9g"
+    ],
+    [
+      "title",
+      "Dirt and Sand"
+    ],
+    [
+      "url",
+      "https://blossom-01.uid.ovh/1f4ab3f013ee9fb85ab015d29e23d7532ba0aa877fc582f45e4ac55d0253a0dd.wav"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "client",
+      "nostria"
+    ],
+    [
+      "image",
+      "https://blossom-01.uid.ovh/eb3d67df73e7945a1a6fb93bc3a0efe603e5f0f36facdfdd75c17ef8d978f9e7.jpeg"
+    ],
+    [
+      "t",
+      "rock"
+    ],
+    [
+      "t",
+      "alternative"
+    ],
+    [
+      "t",
+      "indie"
+    ],
+    [
+      "p",
+      "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f"
+    ],
+    [
+      "artist",
+      "Strange Love"
+    ],
+    [
+      "album",
+      "Strange Love"
+    ],
+    [
+      "track_number",
+      "1"
+    ],
+    [
+      "released",
+      "2026-02-14"
+    ],
+    [
+      "language",
+      "en"
+    ],
+    [
+      "zap",
+      "fd2ee25fd0ef442aa1b7404a9354b12e554ec0dead81a6c8bdb8cda2ff09373f",
+      "wss://relay.damus.io",
+      "100"
+    ],
+    [
+      "alt",
+      "Music track: Dirt and Sand by Strange Love"
+    ]
+  ]
+}

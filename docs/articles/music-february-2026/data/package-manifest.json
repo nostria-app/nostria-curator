@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-02-25T19:01:09.759Z",
+  "zipFile": "docs\\articles\\music-february-2026\\music-february-2026.zip",
+  "eventInputFile": "docs\\articles\\music-february-2026\\nostr-event.unsigned.json",
+  "mediaCount": 2,
+  "media": [
+    {
+      "source": "docs\\articles\\music-february-2026\\media\\feature-article.png",
+      "zipName": "feature-article.png"
+    },
+    {
+      "source": "docs\\articles\\music-february-2026\\media\\reniboka-player.png",
+      "zipName": "reniboka-player.png"
+    }
+  ]
+}

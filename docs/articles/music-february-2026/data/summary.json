@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-02-25T13:04:25.039Z",
+  "playlist": {
+    "rawAddress": "nostr:naddr1qvzqqqy9tvpzpy5am98xej9xvetxtg0plszrj5kqznqkc9e4278rgdkdg5gtr6pfqy88wumn8ghj7mn0wvhxcmmv9uq32amnwvaz7tmjv4kxz7fwv3sk6atn9e5k7tcpr9mhxue69uhhyetvv9ujuumwdae8gtnnda3kjctv9uq35amnwvaz7tmjd93x7tn9w5hxummnw3exjcfwv9c8qtcqrdnx2cnjw4shy7fdxgcryd3dxymnwv3sxycrqwpjxvmnjdg05nr",
+    "kind": 34139,
+    "pubkey": "929dd94e6cc8a6665665a1e1fc043952c014c16c1735578e3436cd4510b1e829",
+    "identifier": "february-2026-1772010082379",
+    "eventId": "147fa2618e6cd968200dbabe8cfa5a11b3c780fbd03eae8e83bf671ba6f16cef",
+    "title": "February 2026"
+  },
+  "relays": [
+    "wss://nos.lol/",
+    "wss://relay.damus.io/",
+    "wss://relay.snort.social/"
+  ],
+  "counts": {
+    "references": 27,
+    "trackEvents": 27,
+    "artists": 19,
+    "tracksWithVideo": 2
+  },
+  "files": {
+    "playlistEvent": "docs\\articles\\music-february-2026\\data\\playlist-event.json",
+    "tracksIndex": "docs\\articles\\music-february-2026\\data\\tracks\\index.json",
+    "artists": "docs\\articles\\music-february-2026\\data\\artists.json"
+  }
+}

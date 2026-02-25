@@ -1,0 +1,82 @@
+{
+  "content": "Lyrics:\nMinden alma álmot rejt\nMinden alma álmot hoz\n\nO sol esquenta meu peito \nO sol que vai e vem \n\nLélegzem\nLélegzem\n\n\nCredits:\nReni Iszlai & Boka Mark Szasz\n\nLicense:\nAll Rights Reserved",
+  "created_at": 1767370948,
+  "id": "5a3720e0cf97bcb75cbd5a7d297aed8686bf67ee3326dfeb1bb2b98d842a89dd",
+  "kind": 36787,
+  "pubkey": "324a42ebc18a5d5c435941e415d6ed1e409f76a2ac058bcf2f1572e70603f40e",
+  "sig": "ebc82ff37b0778eb0f0cbeab271ea084c1e4cf47b2d10126e4d66b77122e98225c8ebe6cbef3556bc2e1609f4ebdb2f446162bcbe7337967247e18fe082cf2a0",
+  "tags": [
+    [
+      "d",
+      "1767370948684-80tzfdj"
+    ],
+    [
+      "title",
+      "Minden alma"
+    ],
+    [
+      "url",
+      "https://mibo.eu.nostria.app/70b4685f459c227aa16a1b64ed7fddf0e071944e1330da29334397da89c5b58d.mpga"
+    ],
+    [
+      "t",
+      "music"
+    ],
+    [
+      "client",
+      "nostria"
+    ],
+    [
+      "image",
+      "https://mibo.eu.nostria.app/65f7b74bc9d1d46fea8bee1eab6b2e12c5937edf6161e50383b0599008a80bbd.webp"
+    ],
+    [
+      "t",
+      "indie"
+    ],
+    [
+      "p",
+      "324a42ebc18a5d5c435941e415d6ed1e409f76a2ac058bcf2f1572e70603f40e"
+    ],
+    [
+      "artist",
+      "Reni & Boka"
+    ],
+    [
+      "album",
+      "Minden alma (Single)"
+    ],
+    [
+      "released",
+      "2023-06-01"
+    ],
+    [
+      "language",
+      "hu"
+    ],
+    [
+      "t",
+      "singer-songwriter"
+    ],
+    [
+      "t",
+      "hungary"
+    ],
+    [
+      "zap",
+      "c3177358f5ed45bd8812c44b5cedd6d365a0eac557f1075090958d56fe5b43cd",
+      "wss://relay.damus.io",
+      "50"
+    ],
+    [
+      "zap",
+      "95b17b590253c39e6bfd7f2429f40d540b7ef843610c3dadb697db22df536bbb",
+      "wss://relay.damus.io",
+      "50"
+    ],
+    [
+      "alt",
+      "Music track: Minden alma by Reni & Boka"
+    ]
+  ]
+}
